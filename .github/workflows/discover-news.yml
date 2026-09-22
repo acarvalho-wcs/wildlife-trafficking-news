@@ -1,0 +1,78 @@
+name: Discover broad wildlife trafficking news
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 07:15 America/Sao_Paulo (UTC-3)
+    - cron: "15 10 * * *"
+  push:
+    paths:
+      - ".github/workflows/discover-news.yml"
+      - "scripts/discover_news_candidates.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-broad-wildlife-news
+  cancel-in-progress: false
+
+jobs:
+  discover-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests beautifulsoup4
+
+      - name: Discover multilingual broad-news candidates
+        run: |
+          python scripts/discover_news_candidates.py             --news news.json             --candidates news-candidates.json             --report news-discovery-report.json             --days 7             --max-per-query 100             --max-new 30             --min-score 3             --sleep 0.15
+
+      - name: Validate JSON outputs
+        run: |
+          python -m json.tool news.json > /dev/null
+          python -m json.tool news-candidates.json > /dev/null
+          python -m json.tool news-discovery-report.json > /dev/null
+
+      - name: Add workflow summary
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          report = json.loads(Path("news-discovery-report.json").read_text(encoding="utf-8"))
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as fh:
+              fh.write("# Broad wildlife trafficking news discovery\n\n")
+              fh.write(f"- Published collection: **{report.get('published_count', 0)}**\n")
+              fh.write(f"- Existing candidates: **{report.get('existing_candidate_count', 0)}**\n")
+              fh.write(f"- New candidates: **{report.get('new_candidates_added', 0)}**\n")
+              fh.write(f"- Candidate queue after run: **{report.get('resulting_candidate_count', 0)}**\n")
+              fh.write(f"- Languages queried: **{', '.join(report.get('languages_queried', []))}**\n")
+          PY
+
+      - name: Commit candidate queue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news-candidates.json news-discovery-report.json
+
+          if git diff --cached --quiet; then
+            echo "No discovery changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update broad wildlife trafficking news candidates"
+          git push
