@@ -1,14 +1,344 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-22T00:00:00-04:00",
+  "updated_at": "2026-09-22T04:12:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 16,
+  "count": 31,
   "news": [
+    {
+      "id": "mongabay-2026-09-19-zambia-wildlife-crime-drivers",
+      "publication_date": "2026-09-19",
+      "outlet": "Mongabay",
+      "authors": [
+        "Alex Megerle"
+      ],
+      "original_language": "en",
+      "original_title": "‘How did you come to be here?’ Study digs into origins of Zambian wildlife crime",
+      "title_pt": "“Como você veio parar aqui?” Estudo investiga as origens do crime contra a fauna na Zâmbia",
+      "title_en": "‘How did you come to be here?’ Study digs into origins of Zambian wildlife crime",
+      "title_es": "“¿Cómo llegaste hasta aquí?” Estudio investiga los orígenes del delito contra la fauna en Zambia",
+      "description_pt": "Examina entrevistas com mais de 300 pessoas presas por crimes contra a fauna na Zâmbia para entender motivações, recrutamento e risco de reincidência. Mostra como oportunidade econômica, intermediários e redes de compra conectam infratores de base ao comércio ilegal.",
+      "description_en": "Examines interviews with more than 300 people imprisoned for wildlife offenses in Zambia to understand motivations, recruitment and recidivism risk. It shows how economic opportunity, intermediaries and buyer networks connect lower-level offenders to illegal trade.",
+      "description_es": "Examina entrevistas con más de 300 personas encarceladas por delitos contra la fauna en Zambia para comprender motivaciones, reclutamiento y riesgo de reincidencia. Muestra cómo las oportunidades económicas, los intermediarios y las redes de compradores conectan a infractores de base con el comercio ilegal.",
+      "topic_code": "criminal_justice",
+      "topic_pt": "Justiça criminal",
+      "topic_en": "Criminal justice",
+      "topic_es": "Justicia penal",
+      "source_url": "https://news.mongabay.com/2026/09/how-did-you-come-to-be-here-study-digs-into-origins-of-zambian-wildlife-crime/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-09-08-amazon-bangkok-market",
+      "publication_date": "2026-09-08",
+      "outlet": "Mongabay",
+      "authors": [
+        "Gloria Dickie"
+      ],
+      "original_language": "en",
+      "original_title": "Why is Amazonian wildlife turning up at a Bangkok market?",
+      "title_pt": "Por que a fauna amazônica está aparecendo em um mercado de Bangkok?",
+      "title_en": "Why is Amazonian wildlife turning up at a Bangkok market?",
+      "title_es": "¿Por qué la fauna amazónica está apareciendo en un mercado de Bangkok?",
+      "description_pt": "Investiga o aumento de espécies latino-americanas no mercado de Chatuchak, em Bangkok, e reconstrói possíveis conexões entre a Amazônia, mercados peruanos, mecanismos de lavagem e o comércio de animais exóticos no Sudeste Asiático.",
+      "description_en": "Investigates the rise of Latin American species at Bangkok’s Chatuchak Market and traces possible links among the Amazon, Peruvian markets, laundering mechanisms and Southeast Asia’s exotic-pet trade.",
+      "description_es": "Investiga el aumento de especies latinoamericanas en el mercado de Chatuchak, Bangkok, y reconstruye posibles vínculos entre la Amazonía, mercados peruanos, mecanismos de lavado y el comercio de mascotas exóticas en el Sudeste Asiático.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/2026/09/why-is-amazonian-wildlife-turning-up-at-a-bangkok-market/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-08-26-big-tech-wildlife-crime",
+      "publication_date": "2026-08-26",
+      "outlet": "Mongabay",
+      "authors": [
+        "Sam Lee"
+      ],
+      "original_language": "en",
+      "original_title": "Can big tech stop wildlife crime?",
+      "title_pt": "As grandes empresas de tecnologia podem deter o crime contra a fauna?",
+      "title_en": "Can big tech stop wildlife crime?",
+      "title_es": "¿Pueden las grandes tecnológicas frenar el delito contra la fauna?",
+      "description_pt": "Analisa novos compromissos de empresas como PayPal, Meta, eBay e Etsy para combater o comércio ilegal de fauna. Discute como redes sociais, comércio eletrônico, pagamentos digitais e criptomoedas simultaneamente facilitam e podem ajudar a detectar transações ilícitas.",
+      "description_en": "Examines new commitments by companies including PayPal, Meta, eBay and Etsy to counter illegal wildlife trade. It explores how social media, e-commerce, digital payments and cryptocurrency can both enable and help detect illicit transactions.",
+      "description_es": "Analiza nuevos compromisos de empresas como PayPal, Meta, eBay y Etsy para combatir el comercio ilegal de fauna. Examina cómo redes sociales, comercio electrónico, pagos digitales y criptomonedas pueden facilitar y también ayudar a detectar transacciones ilícitas.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://news.mongabay.com/short-article/2026/08/can-big-tech-stop-wildlife-crime/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-08-25-cambodia-online-wildlife-trade",
+      "publication_date": "2026-08-25",
+      "outlet": "Mongabay",
+      "authors": [
+        "Spoorthy Raman"
+      ],
+      "original_language": "en",
+      "original_title": "Cambodia targets online wildlife trade on social media, but experts say it’s not enough",
+      "title_pt": "Camboja mira comércio online de fauna nas redes sociais, mas especialistas dizem que não basta",
+      "title_en": "Cambodia targets online wildlife trade on social media, but experts say it’s not enough",
+      "title_es": "Camboya apunta al comercio online de fauna en redes sociales, pero expertos dicen que no es suficiente",
+      "description_pt": "Examina a resposta do governo cambojano ao comércio de fauna nas redes sociais após investigação encoberta sobre redes criminosas transnacionais. Especialistas alertam que remover conteúdo não substitui investigações sobre traficantes, financiadores e conexões offline.",
+      "description_en": "Examines Cambodia’s response to wildlife sales on social media following an undercover investigation into transnational criminal networks. Experts warn that content removal does not replace investigations into traffickers, financiers and offline connections.",
+      "description_es": "Examina la respuesta de Camboya al comercio de fauna en redes sociales tras una investigación encubierta sobre redes criminales transnacionales. Expertos advierten que eliminar contenido no sustituye investigaciones sobre traficantes, financiadores y conexiones fuera de internet.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://news.mongabay.com/2026/08/cambodia-targets-online-wildlife-trade-on-social-media-but-experts-say-its-not-enough/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-08-20-protected-areas-trafficking-networks",
+      "publication_date": "2026-08-20",
+      "outlet": "Mongabay",
+      "authors": [
+        "Ofir Drori"
+      ],
+      "original_language": "en",
+      "original_title": "To secure protected areas from wildlife trafficking, criminal networks must be dismantled (commentary)",
+      "title_pt": "Para proteger áreas contra o tráfico de fauna, é preciso desmantelar redes criminosas",
+      "title_en": "To secure protected areas from wildlife trafficking, criminal networks must be dismantled",
+      "title_es": "Para proteger las áreas del tráfico de fauna, es necesario desmantelar las redes criminales",
+      "description_pt": "Argumenta que patrulhamento e proteção local são insuficientes quando redes de tráfico, corrupção e facilitadores continuam operando fora das áreas protegidas. Defende investigações orientadas por inteligência contra estruturas criminosas e seus beneficiários.",
+      "description_en": "Argues that patrols and local protection are insufficient when trafficking networks, corruption and facilitators continue operating beyond protected areas. It calls for intelligence-led investigations targeting criminal structures and their beneficiaries.",
+      "description_es": "Sostiene que el patrullaje y la protección local son insuficientes cuando redes de tráfico, corrupción y facilitadores siguen operando fuera de las áreas protegidas. Propone investigaciones guiadas por inteligencia contra estructuras criminales y sus beneficiarios.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/2026/08/secure-protected-areas-from-wildlife-trafficking-criminal-networks-must-be-dismantled-commentary/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-08-11-ivory-networks-commentary",
+      "publication_date": "2026-08-11",
+      "outlet": "Mongabay",
+      "authors": [
+        "Mary Rice"
+      ],
+      "original_language": "en",
+      "original_title": "On ivory, follow the trafficking networks and not the headlines (commentary)",
+      "title_pt": "No tráfico de marfim, siga as redes — não apenas as manchetes",
+      "title_en": "On ivory, follow the trafficking networks and not the headlines",
+      "title_es": "En el tráfico de marfil, siga las redes y no solo los titulares",
+      "description_pt": "Questiona a percepção de que o tráfico de marfim está controlado e destaca a persistência de redes organizadas na África Austral. Defende que grandes apreensões sejam ponto de partida para investigações de rede, e não o encerramento do caso.",
+      "description_en": "Challenges the idea that ivory trafficking is under control and highlights the persistence of organized networks in Southern Africa. It argues that major seizures should start network investigations rather than end them.",
+      "description_es": "Cuestiona la idea de que el tráfico de marfil esté controlado y destaca la persistencia de redes organizadas en África austral. Sostiene que las grandes incautaciones deben iniciar investigaciones de red, no cerrarlas.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/2026/08/on-ivory-follow-the-trafficking-networks-and-not-the-headlines-commentary/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-08-05-cambodia-transnational-crime",
+      "publication_date": "2026-08-05",
+      "outlet": "Mongabay",
+      "authors": [
+        "Mongabay.com"
+      ],
+      "original_language": "en",
+      "original_title": "Investigation exposes Cambodia’s illegal wildlife trade linked to transnational crime",
+      "title_pt": "Investigação expõe comércio ilegal de fauna no Camboja ligado ao crime transnacional",
+      "title_en": "Investigation exposes Cambodia’s illegal wildlife trade linked to transnational crime",
+      "title_es": "Investigación expone el comercio ilegal de fauna en Camboya vinculado al crimen transnacional",
+      "description_pt": "Resume uma investigação encoberta de um ano que identificou cinco supostos líderes de redes no Camboja ligados ao tráfico de fauna, drogas, pessoas e centros de fraude. Descreve mercados, compradores, espécies e conexões logísticas.",
+      "description_en": "Summarizes a yearlong undercover investigation that identified five alleged network leaders in Cambodia linked to wildlife, drug and human trafficking and scam centers. It outlines markets, buyers, species and logistical connections.",
+      "description_es": "Resume una investigación encubierta de un año que identificó a cinco presuntos líderes de redes en Camboya vinculados al tráfico de fauna, drogas y personas y a centros de fraude. Describe mercados, compradores, especies y conexiones logísticas.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/short-article/2026/08/investigation-exposes-cambodias-illegal-wildlife-trade-linked-to-transnational-crime/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-07-29-vietnam-antipoaching-tech",
+      "publication_date": "2026-07-29",
+      "outlet": "Mongabay",
+      "authors": [
+        "Mongabay.com"
+      ],
+      "original_language": "en",
+      "original_title": "Tech helps Vietnam rangers turn the tide on poaching",
+      "title_pt": "Tecnologia ajuda guardas florestais do Vietnã a enfrentar a caça ilegal",
+      "title_en": "Tech helps Vietnam rangers turn the tide on poaching",
+      "title_es": "La tecnología ayuda a guardaparques de Vietnam a combatir la caza furtiva",
+      "description_pt": "Mostra como uma unidade anticaça no Parque Nacional Pu Mat combina patrulhamento de campo com ferramentas digitais e análise de dados. A reportagem discute capacidade de fiscalização, armadilhas e uso de informação espacial para direcionar operações.",
+      "description_en": "Shows how an antipoaching unit in Pu Mat National Park combines field patrols with digital tools and data analysis. It discusses enforcement capacity, snares and the use of spatial information to target operations.",
+      "description_es": "Muestra cómo una unidad contra la caza furtiva en el Parque Nacional Pu Mat combina patrullaje de campo con herramientas digitales y análisis de datos. Analiza capacidad de control, trampas y uso de información espacial para orientar operaciones.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/short-article/2026/07/tech-helps-vietnam-rangers-turn-the-tide-on-poaching/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-07-24-bangladesh-wildlife-crime-volunteers",
+      "publication_date": "2026-07-24",
+      "outlet": "Mongabay",
+      "authors": [
+        "Sadiqur Rahman"
+      ],
+      "original_language": "en",
+      "original_title": "Volunteers play crucial role in Bangladesh’s wildlife crime control efforts",
+      "title_pt": "Voluntários desempenham papel crucial no controle de crimes contra a fauna em Bangladesh",
+      "title_en": "Volunteers play crucial role in Bangladesh’s wildlife crime control efforts",
+      "title_es": "Voluntarios desempeñan un papel crucial en el control de delitos contra la fauna en Bangladesh",
+      "description_pt": "Descreve como voluntários fornecem inteligência, auxiliam operações e atuam como compradores encobertos em apoio à unidade de combate a crimes contra a fauna de Bangladesh. Também aborda riscos, governança e desafios do processo de registro desses colaboradores.",
+      "description_en": "Describes how volunteers provide intelligence, support operations and act as undercover buyers alongside Bangladesh’s wildlife crime control unit. It also examines risks, governance and challenges in formalizing volunteer participation.",
+      "description_es": "Describe cómo voluntarios aportan inteligencia, apoyan operativos y actúan como compradores encubiertos junto a la unidad de control de delitos contra la fauna de Bangladesh. También aborda riesgos, gobernanza y desafíos para formalizar su participación.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/2026/07/volunteers-play-crucial-role-in-bangladeshs-wildlife-crime-control-efforts/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-07-21-cambodia-wildlife-demand",
+      "publication_date": "2026-07-21",
+      "outlet": "Mongabay",
+      "authors": [
+        "Spoorthy Raman"
+      ],
+      "original_language": "en",
+      "original_title": "Report reveals Cambodia’s appetite for tigers, rhinos and other endangered wildlife",
+      "title_pt": "Relatório revela demanda no Camboja por tigres, rinocerontes e outras espécies ameaçadas",
+      "title_en": "Report reveals Cambodia’s appetite for tigers, rhinos and other endangered wildlife",
+      "title_es": "Informe revela la demanda en Camboya de tigres, rinocerontes y otras especies amenazadas",
+      "description_pt": "Detalha uma investigação encoberta que mapeou supostos líderes, compradores, restaurantes, lojas e produtos de fauna no Camboja. Relaciona a demanda de consumidores ricos e turistas a redes que também aparecem ligadas a outros mercados ilícitos.",
+      "description_en": "Details an undercover investigation mapping alleged leaders, buyers, restaurants, shops and wildlife products in Cambodia. It links demand from wealthy consumers and tourists to networks also associated with other illicit markets.",
+      "description_es": "Detalla una investigación encubierta que mapeó presuntos líderes, compradores, restaurantes, tiendas y productos de fauna en Camboya. Vincula la demanda de consumidores ricos y turistas con redes asociadas también a otros mercados ilícitos.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://news.mongabay.com/2026/07/report-reveals-cambodias-appetite-for-tigers-rhinos-and-other-endangered-wildlife/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-07-21-pangolin-dna-trafficking-networks",
+      "publication_date": "2026-07-21",
+      "outlet": "Mongabay",
+      "authors": [
+        "Shanna Hanbury"
+      ],
+      "original_language": "en",
+      "original_title": "Pangolin DNA study links local wild meat markets to global trafficking networks",
+      "title_pt": "Estudo de DNA de pangolins conecta mercados locais de carne silvestre a redes globais de tráfico",
+      "title_en": "Pangolin DNA study links local wild meat markets to global trafficking networks",
+      "title_es": "Estudio de ADN de pangolines conecta mercados locales de carne silvestre con redes globales de tráfico",
+      "description_pt": "Mostra como dados genéticos ligam áreas de origem que abastecem mercados locais de carne silvestre a apreensões internacionais de pangolins. O trabalho indica sobreposição entre cadeias domésticas e transnacionais e possíveis atores comuns na coleta.",
+      "description_en": "Shows how genetic data link source areas supplying local wild-meat markets to international pangolin seizures. The work suggests overlap between domestic and transnational supply chains and potentially shared actors at the harvesting stage.",
+      "description_es": "Muestra cómo datos genéticos conectan áreas de origen que abastecen mercados locales de carne silvestre con incautaciones internacionales de pangolines. El trabajo sugiere superposición entre cadenas domésticas y transnacionales y posibles actores comunes en la extracción.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/short-article/2026/07/pangolin-dna-study-links-local-wild-meat-markets-to-global-trafficking-networks/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-07-15-laos-illegal-wildlife-shops",
+      "publication_date": "2026-07-15",
+      "outlet": "Mongabay",
+      "authors": [
+        "Gerald Flynn"
+      ],
+      "original_language": "en",
+      "original_title": "Laos’s illegal wildlife shops keep growing despite enforcement, investigators find",
+      "title_pt": "Lojas ilegais de fauna no Laos continuam crescendo apesar da fiscalização, apontam investigadores",
+      "title_en": "Laos’s illegal wildlife shops keep growing despite enforcement, investigators find",
+      "title_es": "Las tiendas ilegales de fauna en Laos siguen creciendo pese a la fiscalización, según investigadores",
+      "description_pt": "Acompanha a expansão de estabelecimentos voltados a grupos turísticos chineses em Luang Prabang e Vientiane, apesar de ações de fiscalização. A reportagem descreve o modelo de turismo de baixo custo, pressão sobre compradores e persistência das redes comerciais.",
+      "description_en": "Tracks the expansion of wildlife shops serving Chinese tour groups in Luang Prabang and Vientiane despite enforcement actions. It describes the low-cost tour model, pressure on buyers and the persistence of commercial networks.",
+      "description_es": "Sigue la expansión de tiendas de fauna dirigidas a grupos turísticos chinos en Luang Prabang y Vientián pese a acciones de control. Describe el modelo de turismo de bajo costo, la presión sobre compradores y la persistencia de las redes comerciales.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://news.mongabay.com/2026/07/laoss-illegal-wildlife-shops-keep-growing-despite-enforcement-investigators-find/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "detikbali-2026-06-15-bali-wildlife-route",
+      "publication_date": "2026-06-15",
+      "outlet": "detikBali",
+      "authors": [
+        "Rizki Setyo Samudero"
+      ],
+      "original_language": "id",
+      "original_title": "Bali Jadi Rute Utama Perdagangan Satwa Liar Ilegal",
+      "title_pt": "Bali se torna rota principal do comércio ilegal de fauna",
+      "title_en": "Bali becomes a major route for illegal wildlife trade",
+      "title_es": "Bali se convierte en una ruta principal del comercio ilegal de fauna",
+      "description_pt": "Apresenta Bali como corredor relevante do comércio ilegal de fauna, especialmente aves oriundas de Nusa Tenggara Barat em direção a Java. Discute a condição da ilha como rota e mercado, além da pressão sobre populações de aves.",
+      "description_en": "Presents Bali as a significant corridor in illegal wildlife trade, particularly for birds moving from West Nusa Tenggara toward Java. It discusses the island’s role as both route and market and the pressure on wild bird populations.",
+      "description_es": "Presenta a Bali como un corredor relevante del comercio ilegal de fauna, especialmente de aves procedentes de Nusa Tenggara Occidental con destino a Java. Analiza el papel de la isla como ruta y mercado y la presión sobre poblaciones de aves.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.detik.com/bali/berita/d-8532676/bali-jadi-rute-utama-perdagangan-satwa-liar-ilegal",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-06-09-indonesia-hornbill-trade",
+      "publication_date": "2026-06-09",
+      "outlet": "Mongabay",
+      "authors": [
+        "Spoorthy Raman"
+      ],
+      "original_language": "en",
+      "original_title": "Indonesia’s native hornbills are being hammered by online and offline trade",
+      "title_pt": "Calaus nativos da Indonésia sofrem forte pressão do comércio online e offline",
+      "title_en": "Indonesia’s native hornbills are being hammered by online and offline trade",
+      "title_es": "Los cálaos nativos de Indonesia sufren fuerte presión del comercio online y offline",
+      "description_pt": "Analisa apreensões e anúncios online para dimensionar o comércio ilegal de calaus na Indonésia. Identifica Facebook como importante mercado, descreve demanda por aves vivas e partes e mostra conexões comerciais com outros países.",
+      "description_en": "Analyzes seizure records and online advertisements to assess illegal hornbill trade in Indonesia. It identifies Facebook as a major marketplace, describes demand for live birds and body parts, and documents links to other countries.",
+      "description_es": "Analiza registros de incautaciones y anuncios online para dimensionar el comercio ilegal de cálaos en Indonesia. Identifica Facebook como mercado importante, describe la demanda de aves vivas y partes y documenta vínculos con otros países.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://news.mongabay.com/2026/06/indonesias-native-hornbills-are-being-hammered-by-online-and-offline-trade/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-05-05-facebook-wildlife-trade",
+      "publication_date": "2026-05-05",
+      "outlet": "Mongabay",
+      "authors": [
+        "Spoorthy Raman"
+      ],
+      "original_language": "en",
+      "original_title": "Facebook is a hub for illegal wildlife trade, and that’s by design, report says",
+      "title_pt": "Facebook é um polo do comércio ilegal de fauna — e seu desenho ajuda a explicar por quê, diz relatório",
+      "title_en": "Facebook is a hub for illegal wildlife trade, and that’s by design, report says",
+      "title_es": "Facebook es un polo del comercio ilegal de fauna, y su diseño ayuda a explicar por qué, según un informe",
+      "description_pt": "Analisa dados de comércio online em múltiplos países e mostra como grupos fechados, anonimato, algoritmos de recomendação e monetização favorecem a formação de mercados e redes de tráfico de fauna. Discute responsabilidades de plataformas e desafios regulatórios.",
+      "description_en": "Analyzes online trade data across multiple countries and shows how closed groups, anonymity, recommendation algorithms and monetization help form wildlife-trafficking markets and networks. It discusses platform responsibility and regulatory challenges.",
+      "description_es": "Analiza datos de comercio online en varios países y muestra cómo grupos cerrados, anonimato, algoritmos de recomendación y monetización favorecen la formación de mercados y redes de tráfico de fauna. Aborda la responsabilidad de plataformas y los desafíos regulatorios.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://news.mongabay.com/2026/05/facebook-is-a-hub-for-illegal-wildlife-trade-and-thats-by-design-report-says/",
+      "added_at": "2026-09-22T04:12:00-04:00"
+    },
     {
       "id": "mongabay-2026-09-03-tiger-prosecution-seasia",
       "publication_date": "2026-09-03",
@@ -365,5 +695,12 @@
       "source_url": "https://oeco.org.br/reportagens/relatorio-aponta-amazonia-como-epicentro-do-trafico-de-animais-silvestres-no-brasil/",
       "added_at": "2026-09-10T00:00:00-04:00"
     }
-  ]
+  ],
+  "last_manual_ingestion": {
+    "batch": "broad_news_2026_batch1",
+    "added": 15,
+    "resulting_count": 31,
+    "criteria": "Broad reporting on networks, markets, drivers, governance, digital trade and trafficking impacts; isolated seizure briefs excluded.",
+    "updated_at": "2026-09-22T04:12:00-04:00"
+  }
 }
