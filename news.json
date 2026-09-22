@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-22T04:12:00-04:00",
+  "updated_at": "2026-09-22T09:15:00Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 31,
+  "count": 32,
   "news": [
+    {
+      "id": "mongabay-2026-08-19-ai-seahorses-shark-fins",
+      "publication_date": "2026-08-19",
+      "outlet": "Mongabay",
+      "authors": [
+        "Abhishyant Kidangoor"
+      ],
+      "original_language": "en",
+      "original_title": "Spotted by AI: seahorses and shark fins",
+      "title_pt": "IA ajuda a detectar cavalos-marinhos e barbatanas de tubarão no comércio ilegal",
+      "title_en": "Spotted by AI: seahorses and shark fins",
+      "title_es": "La IA ayuda a detectar caballitos de mar y aletas de tiburón en el comercio ilegal",
+      "description_pt": "Apresenta uma ferramenta baseada em inteligência artificial desenvolvida para identificar fauna marinha, como cavalos-marinhos, pepinos-do-mar e barbatanas de tubarão, em bagagens e volumes aeroportuários. A proposta é apoiar a triagem humana e ampliar a capacidade de detecção do comércio ilegal de espécies marinhas.",
+      "description_en": "Presents an AI-driven tool designed to identify marine wildlife, including seahorses, sea cucumbers and shark fins, in luggage and bags at airports. The system is intended to support human screening and expand detection capacity for illegal marine wildlife trade.",
+      "description_es": "Presenta una herramienta basada en inteligencia artificial diseñada para identificar fauna marina, incluidos caballitos de mar, pepinos de mar y aletas de tiburón, en equipajes y bultos aeroportuarios. El sistema busca apoyar la inspección humana y ampliar la capacidad de detección del comercio ilegal de fauna marina.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/short-article/2026/08/spotted-by-ai-seahorses-and-shark-fins/",
+      "added_at": "2026-09-22T09:15:00Z"
+    },
     {
       "id": "mongabay-2026-09-19-zambia-wildlife-crime-drivers",
       "publication_date": "2026-09-19",
@@ -697,10 +719,9 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "broad_news_2026_batch1",
-    "added": 15,
-    "resulting_count": 31,
-    "criteria": "Broad reporting on networks, markets, drivers, governance, digital trade and trafficking impacts; isolated seizure briefs excluded.",
-    "updated_at": "2026-09-22T04:12:00-04:00"
+    "batch": "single_news_test_2026-09-22",
+    "added": 1,
+    "resulting_count": 32,
+    "updated_at": "2026-09-22T09:15:00Z"
   }
 }
