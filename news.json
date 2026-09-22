@@ -1,14 +1,344 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-22T09:15:00Z",
+  "updated_at": "2026-09-22T09:23:00Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 32,
+  "count": 47,
   "news": [
+    {
+      "id": "mongabay-indonesia-2026-09-14-orangutan-india-aceh-route",
+      "publication_date": "2026-09-14",
+      "outlet": "Mongabay Indonesia",
+      "authors": [
+        "Junaidi Hanafiah"
+      ],
+      "original_language": "id",
+      "original_title": "Kasus 5 Bayi Orangutan di India, Waspadai Perdagangan Satwa Liar Melalui Jalur Laut Aceh",
+      "title_pt": "Cinco filhotes de orangotango na Índia reforçam alerta sobre rota marítima de tráfico a partir de Aceh",
+      "title_en": "Five baby orangutans in India raise alarm over wildlife trafficking routes from Aceh",
+      "title_es": "Cinco crías de orangután en India refuerzan la alerta sobre rutas de tráfico desde Aceh",
+      "description_pt": "Analisa o caso de cinco filhotes encontrados na Índia à luz de rotas transnacionais já documentadas entre Aceh, Tailândia, Mianmar, Bangladesh e o leste indiano. A reportagem destaca a necessidade de investigar toda a cadeia, dos capturadores e financiadores aos transportadores e compradores finais.",
+      "description_en": "Examines five baby orangutans found in India against previously documented transnational routes linking Aceh, Thailand, Myanmar, Bangladesh and eastern India. The story stresses the need to investigate the full chain, from collectors and financiers to transporters and end buyers.",
+      "description_es": "Analiza el caso de cinco crías encontradas en India a la luz de rutas transnacionales ya documentadas entre Aceh, Tailandia, Myanmar, Bangladesh y el este de India. El reportaje destaca la necesidad de investigar toda la cadena, desde capturadores y financiadores hasta transportistas y compradores finales.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://mongabay.co.id/2026/09/14/kasus-5-bayi-orangutan-di-india-waspadai-perdagangan-satwa-liar-melalui-jalur-laut-aceh/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-latam-2026-08-04-amazon-dolphins-trafficking",
+      "publication_date": "2026-08-04",
+      "outlet": "Mongabay Latam",
+      "authors": [
+        "Ana Cristina Alvarado"
+      ],
+      "original_language": "es",
+      "original_title": "El tráfico ilegal es la principal causa de muerte de los delfines amazónicos en Ecuador en los últimos diez años | ESTUDIO",
+      "title_pt": "Tráfico ilegal é a principal causa de morte de botos amazônicos no Equador em dez anos",
+      "title_en": "Illegal trafficking is the leading cause of Amazon river dolphin deaths in Ecuador over the past decade",
+      "title_es": "El tráfico ilegal es la principal causa de muerte de los delfines amazónicos en Ecuador en los últimos diez años",
+      "description_pt": "Apresenta um estudo de dez anos que relaciona mais da metade das mortes registradas de botos amazônicos no Equador à caça direcionada para o comércio ilegal de dentes e gordura. A matéria descreve a cadeia de demanda, mercados artesanais e outras pressões sobre as populações.",
+      "description_en": "Reports on a 10-year study linking more than half of recorded Amazon river dolphin deaths in Ecuador to targeted hunting for the illegal trade in teeth and fat. It describes the demand chain, craft markets and other pressures on dolphin populations.",
+      "description_es": "Presenta un estudio de diez años que vincula más de la mitad de las muertes registradas de delfines amazónicos en Ecuador con la caza dirigida al comercio ilegal de dientes y grasa. Describe la cadena de demanda, los mercados artesanales y otras presiones sobre sus poblaciones.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://es.mongabay.com/2026/08/ecuador-trafico-ilegal-principal-causa-muerte-delfines-amazonicos/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-indonesia-2026-07-23-sumatra-rare-birds",
+      "publication_date": "2026-07-23",
+      "outlet": "Mongabay Indonesia",
+      "authors": [
+        "Novia Harlina"
+      ],
+      "original_language": "id",
+      "original_title": "Mengapa Burung Langka Terus jadi Buruan di Sumatera?",
+      "title_pt": "Por que aves raras continuam sendo alvo do comércio ilegal em Sumatra?",
+      "title_en": "Why do rare birds remain targets of illegal trade in Sumatra?",
+      "title_es": "¿Por qué las aves raras siguen siendo objetivo del comercio ilegal en Sumatra?",
+      "description_pt": "Examina uma rota interprovincial de aves capturadas na natureza e mostra como a demanda por pássaros canoros e visualmente atraentes sustenta redes recorrentes de coleta e comércio em Sumatra.",
+      "description_en": "Examines an interprovincial trade route for wild-caught birds and shows how demand for songbirds and visually attractive species sustains recurring collection and trafficking networks in Sumatra.",
+      "description_es": "Examina una ruta interprovincial de aves capturadas en la naturaleza y muestra cómo la demanda de aves canoras y visualmente atractivas sostiene redes recurrentes de captura y comercio en Sumatra.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://mongabay.co.id/2026/07/23/mengapa-perdagangan-burung-langka-di-sumatera-terus-terjadi/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-latam-2026-07-06-peru-shark-fins-organized-crime",
+      "publication_date": "2026-07-06",
+      "outlet": "Mongabay Latam",
+      "authors": [
+        "Cristina Fernández Aguilar"
+      ],
+      "original_language": "es",
+      "original_title": "Perú: empresario investigado por tráfico ilegal de especies y crimen organizado continúa exportando aletas de tiburones protegidos",
+      "title_pt": "Peru: empresário investigado por tráfico de espécies e crime organizado continua exportando barbatanas de tubarões protegidos",
+      "title_en": "Peru: businessman investigated for wildlife trafficking and organized crime continues exporting protected shark fins",
+      "title_es": "Perú: empresario investigado por tráfico ilegal de especies y crimen organizado continúa exportando aletas de tiburones protegidos",
+      "description_pt": "A partir da análise de resoluções oficiais, investiga como uma empresa ligada a um inquérito por tráfico e crime organizado continuou recebendo autorizações de exportação. A matéria discute origem das barbatanas, controles CITES, falsificação documental e uma suposta rede transnacional entre Equador, Peru e Ásia.",
+      "description_en": "Using official resolutions, investigates how a company tied to a wildlife-trafficking and organized-crime inquiry continued receiving export authorizations. It examines fin origins, CITES controls, document fraud and an alleged transnational network linking Ecuador, Peru and Asia.",
+      "description_es": "A partir del análisis de resoluciones oficiales, investiga cómo una empresa vinculada a una pesquisa por tráfico de especies y crimen organizado siguió recibiendo autorizaciones de exportación. Examina el origen de las aletas, controles CITES, fraude documental y una presunta red transnacional entre Ecuador, Perú y Asia.",
+      "topic_code": "fraud_laundering",
+      "topic_pt": "Fraudes e lavagem",
+      "topic_en": "Fraud and laundering",
+      "topic_es": "Fraude y lavado",
+      "source_url": "https://es.mongabay.com/2026/07/peru-empresario-investigado-trafico-ilegal-especies-crimen-organizado-continua-exportando-aletas-tiburones-protegidos/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-indonesia-2026-07-05-pangolin-scales-jakarta-followup",
+      "publication_date": "2026-07-05",
+      "outlet": "Mongabay Indonesia",
+      "authors": [
+        "Anggita Raissa"
+      ],
+      "original_language": "id",
+      "original_title": "Bagaimana Perkembangan Kasus Penyelundupan 3 Ton Sisik Trenggiling di Jakarta?",
+      "title_pt": "Como avançou o caso do contrabando de três toneladas de escamas de pangolim em Jacarta?",
+      "title_en": "How has the three-ton pangolin scale smuggling case in Jakarta developed?",
+      "title_es": "¿Cómo avanzó el caso del contrabando de tres toneladas de escamas de pangolín en Yakarta?",
+      "description_pt": "Acompanha a investigação de um carregamento destinado ao Camboja e detalha o uso de documentos de exportação manipulados, carga de cobertura e empresas intermediárias. Autoridades ainda buscavam proprietários da mercadoria e apuravam responsabilidades corporativas.",
+      "description_en": "Follows the investigation into a shipment bound for Cambodia and details manipulated export documents, cover cargo and intermediary companies. Authorities were still seeking the owners of the scales and examining potential corporate responsibility.",
+      "description_es": "Sigue la investigación de un cargamento destinado a Camboya y detalla el uso de documentos de exportación manipulados, carga de cobertura y empresas intermediarias. Las autoridades aún buscaban a los propietarios y examinaban posibles responsabilidades corporativas.",
+      "topic_code": "fraud_laundering",
+      "topic_pt": "Fraudes e lavagem",
+      "topic_en": "Fraud and laundering",
+      "topic_es": "Fraude y lavado",
+      "source_url": "https://mongabay.co.id/2026/07/05/bagaimana-perkembangan-kasus-penyelundup-3-ton-sisik-trenggiling-di-jakarta/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-2026-06-16-ai-marine-smuggling",
+      "publication_date": "2026-06-16",
+      "outlet": "Mongabay",
+      "authors": [
+        "Daniel Shailer"
+      ],
+      "original_language": "en",
+      "original_title": "‘Thinking how traffickers think’: Study uses AI to detect marine wildlife smuggling",
+      "title_pt": "“Pensando como traficantes”: estudo usa IA para detectar contrabando de fauna marinha",
+      "title_en": "‘Thinking how traffickers think’: Study uses AI to detect marine wildlife smuggling",
+      "title_es": "“Pensar como los traficantes”: estudio usa IA para detectar contrabando de fauna marina",
+      "description_pt": "Analisa um algoritmo treinado com imagens de raio X 3D para detectar cavalos-marinhos, barbatanas de tubarão e pepinos-do-mar ocultos em bagagens. A reportagem discute desempenho, limitações operacionais e o papel da tecnologia como apoio à fiscalização aeroportuária.",
+      "description_en": "Examines an algorithm trained on 3D X-ray images to detect seahorses, shark fins and sea cucumbers concealed in luggage. The story discusses performance, operational limits and the role of technology as a support tool for airport enforcement.",
+      "description_es": "Analiza un algoritmo entrenado con imágenes de rayos X 3D para detectar caballitos de mar, aletas de tiburón y pepinos de mar ocultos en equipajes. El reportaje aborda su desempeño, limitaciones operativas y uso como apoyo al control aeroportuario.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/2026/06/thinking-how-traffickers-think-study-uses-ai-to-detect-marine-wildlife-smuggling/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-2026-06-08-tanzania-ivory-investigations",
+      "publication_date": "2026-06-08",
+      "outlet": "Mongabay",
+      "authors": [
+        "Charles Mpaka"
+      ],
+      "original_language": "en",
+      "original_title": "Huge ivory bust raises questions about follow-up investigations in Tanzania",
+      "title_pt": "Grande apreensão de marfim levanta dúvidas sobre investigações posteriores na Tanzânia",
+      "title_en": "Huge ivory bust raises questions about follow-up investigations in Tanzania",
+      "title_es": "Gran incautación de marfil plantea dudas sobre las investigaciones posteriores en Tanzania",
+      "description_pt": "Usa uma grande apreensão como ponto de partida para examinar falhas de investigação, cooperação internacional, análise forense e responsabilização em casos de tráfico de marfim. A matéria destaca que apreensões e prisões, sem investigação de rede, não desmontam estruturas transnacionais.",
+      "description_en": "Uses a major seizure as a starting point to examine gaps in follow-up investigations, international cooperation, forensics and accountability in ivory trafficking cases. It stresses that seizures and arrests without network investigation do not dismantle transnational structures.",
+      "description_es": "Toma una gran incautación como punto de partida para examinar fallas en investigaciones posteriores, cooperación internacional, análisis forense y rendición de cuentas en casos de tráfico de marfil. Subraya que decomisos y arrestos sin investigar las redes no desmantelan estructuras transnacionales.",
+      "topic_code": "criminal_justice",
+      "topic_pt": "Justiça criminal",
+      "topic_en": "Criminal justice",
+      "topic_es": "Justicia penal",
+      "source_url": "https://news.mongabay.com/2026/06/huge-ivory-bust-raises-questions-about-follow-up-investigations-in-tanzania/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-2026-05-22-gibbon-trafficking-demand",
+      "publication_date": "2026-05-22",
+      "outlet": "Mongabay",
+      "authors": [
+        "Mongabay.com"
+      ],
+      "original_language": "en",
+      "original_title": "What drives the trafficking of gibbons? Conservationists shed light on demand",
+      "title_pt": "O que impulsiona o tráfico de gibões? Conservacionistas analisam a demanda",
+      "title_en": "What drives the trafficking of gibbons? Conservationists shed light on demand",
+      "title_es": "¿Qué impulsa el tráfico de gibones? Conservacionistas analizan la demanda",
+      "description_pt": "Explora as diferentes motivações de consumidores de gibões na Indonésia, Vietnã, Índia e Malásia, incluindo status social, posse como animal de estimação e influência das redes sociais. Defende respostas diferenciadas conforme os segmentos de demanda.",
+      "description_en": "Explores differing motivations behind gibbon demand in Indonesia, Vietnam, India and Malaysia, including status, pet ownership and social-media influence. It argues that demand-reduction responses must be tailored to distinct consumer groups.",
+      "description_es": "Explora distintas motivaciones de la demanda de gibones en Indonesia, Vietnam, India y Malasia, como estatus social, tenencia como mascota e influencia de redes sociales. Plantea que las respuestas deben adaptarse a diferentes grupos de consumidores.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://news.mongabay.com/short-article/2026/05/what-drives-the-trafficking-of-gibbons-conservationists-shed-light-on-demand/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "guardian-2026-05-12-nairobi-ant-smuggling",
+      "publication_date": "2026-05-12",
+      "outlet": "The Guardian",
+      "authors": [
+        "Carlos Mureithi"
+      ],
+      "original_language": "en",
+      "original_title": "Smuggled in syringes: how Nairobi became a nexus for the black market in giant harvester ants",
+      "title_pt": "Contrabandeadas em seringas: como Nairóbi virou um polo do mercado negro de formigas colhedoras gigantes",
+      "title_en": "Smuggled in syringes: how Nairobi became a nexus for the black market in giant harvester ants",
+      "title_es": "Contrabandeadas en jeringas: cómo Nairobi se convirtió en un nodo del mercado negro de hormigas cosechadoras gigantes",
+      "description_pt": "Reconstrói casos judiciais no Quênia para mostrar a expansão do comércio internacional de formigas como pets exóticos, com compradores e rotas para a Ásia e a Europa. A reportagem discute métodos de ocultação, demanda, conservação e riscos de biossegurança.",
+      "description_en": "Reconstructs Kenyan court cases to show the expansion of the international trade in ants as exotic pets, with buyers and routes reaching Asia and Europe. It examines concealment methods, demand, conservation concerns and biosecurity risks.",
+      "description_es": "Reconstruye casos judiciales en Kenia para mostrar la expansión del comercio internacional de hormigas como mascotas exóticas, con compradores y rutas hacia Asia y Europa. Examina métodos de ocultamiento, demanda, conservación y riesgos de bioseguridad.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://www.theguardian.com/environment/ng-interactive/2026/may/13/smuggled-illegal-global-trade-giant-harvester-ants-kenya-asia-europe",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-brasil-2026-05-12-mega-zoo-india-trafficking",
+      "publication_date": "2026-05-12",
+      "outlet": "Mongabay",
+      "authors": [
+        "Fernanda Wenzel"
+      ],
+      "original_language": "pt",
+      "original_title": "Investigação sobre tráfico de fauna brasileira mira ligação com mega zoo na Índia",
+      "title_pt": "Investigação sobre tráfico de fauna brasileira mira ligação com mega zoo na Índia",
+      "title_en": "Brazilian wildlife trafficking investigation examines alleged link to Indian mega-zoo",
+      "title_es": "Investigación sobre tráfico de fauna brasileña examina presunto vínculo con un megazoológico en India",
+      "description_pt": "Acompanha uma investigação da Polícia Federal sobre tráfico internacional de espécies ameaçadas brasileiras e examina alegações de conexão com compradores ligados a um grande zoológico privado na Índia. A reportagem contextualiza atores, histórico de contrabando e respostas dos envolvidos.",
+      "description_en": "Follows a Brazilian Federal Police investigation into the international trafficking of threatened native species and examines allegations of links to buyers associated with a large private zoo in India. It provides context on actors, prior smuggling history and responses from those involved.",
+      "description_es": "Sigue una investigación de la Policía Federal de Brasil sobre tráfico internacional de especies amenazadas y examina denuncias de vínculos con compradores asociados a un gran zoológico privado en India. Aporta contexto sobre actores, antecedentes de contrabando y respuestas de los involucrados.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://brasil.mongabay.com/2026/05/investigacao-sobre-trafico-de-fauna-brasileira-mira-ligacao-com-mega-zoo-na-india/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-indonesia-2026-04-03-global-wildlife-crime-networks",
+      "publication_date": "2026-04-03",
+      "outlet": "Mongabay Indonesia",
+      "authors": [
+        "A. Asnawi"
+      ],
+      "original_language": "id",
+      "original_title": "Laporan Ungkap Jaringan Kejahatan Satwa Kian Massif",
+      "title_pt": "Relatório revela expansão das redes de crime contra a fauna",
+      "title_en": "Report reveals expanding wildlife crime networks",
+      "title_es": "Informe revela la expansión de las redes de delitos contra la fauna",
+      "description_pt": "Usa os resultados da Operação Thunder 2025 para discutir escala global, diversidade de espécies e produtos, conexões com outras economias ilícitas e a crescente presença de artrópodes no comércio ilegal. Enfatiza cooperação policial e inteligência transnacional.",
+      "description_en": "Uses the results of Operation Thunder 2025 to discuss the global scale, diversity of species and products, links to other illicit economies and the growing trade in arthropods. It emphasizes cross-border intelligence and law-enforcement cooperation.",
+      "description_es": "Usa los resultados de la Operación Thunder 2025 para analizar la escala global, la diversidad de especies y productos, los vínculos con otras economías ilícitas y el creciente comercio de artrópodos. Destaca la cooperación policial y de inteligencia transnacional.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://mongabay.co.id/2026/04/03/jaringan-kejahatan-satwa-kian-massif-dari-hiu-hingga-serangga/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-latam-2026-03-17-ecuador-shark-mislabeling",
+      "publication_date": "2026-03-17",
+      "outlet": "Mongabay Latam",
+      "authors": [
+        "Astrid Arellano"
+      ],
+      "original_language": "es",
+      "original_title": "Fraude en los mercados: especies de tiburones amenazados se venden como corvina en Ecuador | ESTUDIO",
+      "title_pt": "Fraude nos mercados: tubarões ameaçados são vendidos como corvina no Equador",
+      "title_en": "Market fraud: threatened shark species sold as croaker in Ecuador",
+      "title_es": "Fraude en los mercados: especies de tiburones amenazados se venden como corvina en Ecuador",
+      "description_pt": "Relata um estudo genético que encontrou carne de tubarão vendida sob nomes falsos em mercados equatorianos, inclusive de espécies ameaçadas e protegidas. A reportagem discute rastreabilidade, cadeias opacas de fornecimento e lacunas de fiscalização.",
+      "description_en": "Reports on a genetic study that found shark meat sold under false names in Ecuadorian markets, including threatened and legally protected species. It examines traceability, opaque supply chains and enforcement gaps.",
+      "description_es": "Presenta un estudio genético que encontró carne de tiburón vendida bajo nombres falsos en mercados ecuatorianos, incluidas especies amenazadas y protegidas. Examina trazabilidad, cadenas de suministro opacas y fallas de control.",
+      "topic_code": "fraud_laundering",
+      "topic_pt": "Fraudes e lavagem",
+      "topic_en": "Fraud and laundering",
+      "topic_es": "Fraude y lavado",
+      "source_url": "https://es.mongabay.com/2026/03/fraude-mercados-ecuador-tiburones-amenazados-se-venden-como-corvina/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "mongabay-2026-02-25-small-wildcats-trafficking",
+      "publication_date": "2026-02-25",
+      "outlet": "Mongabay",
+      "authors": [
+        "Sean Mowbray"
+      ],
+      "original_language": "en",
+      "original_title": "Big cats get the press, but small wildcats are being poached and trafficked in silence",
+      "title_pt": "Grandes felinos ganham manchetes, mas pequenos gatos silvestres são caçados e traficados em silêncio",
+      "title_en": "Big cats get the press, but small wildcats are being poached and trafficked in silence",
+      "title_es": "Los grandes felinos ocupan titulares, pero los pequeños gatos silvestres son cazados y traficados en silencio",
+      "description_pt": "Mostra como o tráfico de pequenos e médios felinos permanece subdocumentado apesar de centenas de registros na Colômbia e evidências em outros continentes. Discute comércio de animais vivos, partes, mercados de pets e lacunas de monitoramento.",
+      "description_en": "Shows how trafficking in small and medium-sized wildcats remains poorly documented despite hundreds of records in Colombia and evidence from other regions. It examines live-animal trade, body parts, pet markets and monitoring gaps.",
+      "description_es": "Muestra cómo el tráfico de felinos pequeños y medianos sigue poco documentado pese a cientos de registros en Colombia y evidencias en otras regiones. Examina comercio de animales vivos, partes, mercados de mascotas y vacíos de monitoreo.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://news.mongabay.com/2026/02/big-cats-get-the-press-but-small-wildcats-are-being-poached-and-trafficked-in-silence/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "guardian-2025-11-27-asia-animal-cafes-pet-trade",
+      "publication_date": "2025-11-27",
+      "outlet": "The Guardian",
+      "authors": [
+        "Gloria Dickie"
+      ],
+      "original_language": "en",
+      "original_title": "Cuddling capybaras and ogling otters: the problem with animal cafes in Asia",
+      "title_pt": "Capivaras, lontras e cafés de animais: o problema por trás do boom asiático",
+      "title_en": "Cuddling capybaras and ogling otters: the problem with animal cafes in Asia",
+      "title_es": "Capibaras, nutrias y cafés de animales: el problema detrás del auge en Asia",
+      "description_pt": "Investiga a expansão de cafés com animais exóticos na Ásia e sua relação com a movimentação ilegal e a possível lavagem de espécies ameaçadas. A matéria conecta demanda criada por redes sociais, turismo, comércio de pets e cadeias de fornecimento pouco transparentes.",
+      "description_en": "Investigates the expansion of exotic-animal cafés in Asia and their links to illegal movement and potential laundering of threatened species. It connects social-media-driven demand, tourism, the pet trade and opaque supply chains.",
+      "description_es": "Investiga la expansión de cafés con animales exóticos en Asia y su relación con el movimiento ilegal y posible lavado de especies amenazadas. Vincula demanda impulsada por redes sociales, turismo, comercio de mascotas y cadenas de suministro poco transparentes.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "oeco-2025-07-21-spider-trafficked-before-science",
+      "publication_date": "2025-07-21",
+      "outlet": "((o))eco",
+      "authors": [
+        "Aldem Bourscheit"
+      ],
+      "original_language": "pt",
+      "original_title": "O tráfico chegou antes da ciência: nova aranha já era explorada ilegalmente",
+      "title_pt": "O tráfico chegou antes da ciência: nova aranha já era explorada ilegalmente",
+      "title_en": "Trafficking came before science: newly described spider was already being illegally exploited",
+      "title_es": "El tráfico llegó antes que la ciencia: una nueva araña ya era explotada ilegalmente",
+      "description_pt": "Mostra como uma espécie de caranguejeira recém-descrita já circulava no comércio internacional antes mesmo de receber reconhecimento científico formal. O caso expõe lacunas regulatórias, coleta clandestina e a velocidade do mercado de animais exóticos.",
+      "description_en": "Shows how a newly described tarantula species was already circulating in international trade before receiving formal scientific recognition. The case exposes regulatory gaps, clandestine collecting and the speed of the exotic-animal market.",
+      "description_es": "Muestra cómo una especie de tarántula recién descrita ya circulaba en el comercio internacional antes de recibir reconocimiento científico formal. El caso expone vacíos regulatorios, colecta clandestina y la velocidad del mercado de animales exóticos.",
+      "topic_code": "conservation",
+      "topic_pt": "Conservação",
+      "topic_en": "Conservation",
+      "topic_es": "Conservación",
+      "source_url": "https://oeco.org.br/reportagens/o-trafico-chegou-antes-da-ciencia-nova-aranha-ja-era-explorada-ilegalmente/",
+      "added_at": "2026-09-22T09:23:00Z"
+    },
     {
       "id": "mongabay-2026-08-19-ai-seahorses-shark-fins",
       "publication_date": "2026-08-19",
@@ -719,9 +1049,9 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "single_news_test_2026-09-22",
-    "added": 1,
-    "resulting_count": 32,
-    "updated_at": "2026-09-22T09:15:00Z"
+    "batch": "manual_news_batch_15_2026-09-22",
+    "added": 15,
+    "resulting_count": 47,
+    "updated_at": "2026-09-22T09:23:00Z"
   }
 }
