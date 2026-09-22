@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-09-22T08:52:46Z",
+  "lookback_days": 7,
+  "queries_run": 22,
+  "published_count": 16,
+  "existing_candidate_count": 0,
+  "new_candidates_added": 0,
+  "resulting_candidate_count": 0,
+  "languages_queried": [
+    "ar",
+    "en",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "ms",
+    "pt",
+    "ru",
+    "sw",
+    "th",
+    "vi",
+    "zh"
+  ],
+  "new_candidate_ids": []
+}
