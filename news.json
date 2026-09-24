@@ -1,14 +1,256 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-24T05:35:00Z",
+  "updated_at": "2026-09-24T05:42:00Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 48,
+  "count": 59,
   "news": [
+    {
+      "id": "mongabay-latam-2026-09-21-peru-shark-fin-quotas",
+      "publication_date": "2026-09-21",
+      "outlet": "Mongabay Latam",
+      "authors": [
+        "Cristina Fernández Aguilar"
+      ],
+      "original_language": "es",
+      "original_title": "Perú: Ministerio del Ambiente autorizó cuotas para exportar aletas de tiburón que beneficiaron a empresario investigado por crimen organizado",
+      "title_pt": "Peru: Ministério do Ambiente autorizou cotas para exportar barbatanas de tubarão que beneficiaram empresário investigado por crime organizado",
+      "title_en": "Peru: Environment Ministry authorized shark-fin export quotas benefiting businessman investigated for organized crime",
+      "title_es": "Perú: Ministerio del Ambiente autorizó cuotas para exportar aletas de tiburón que beneficiaron a empresario investigado por crimen organizado",
+      "description_pt": "Investiga cotas extraordinárias e retroativas de exportação de barbatanas de tubarão-zorro-pelágico aprovadas pelo Ministério do Ambiente do Peru. A reportagem mostra como as autorizações beneficiaram grandes exportadoras, inclusive uma empresa ligada a investigação por tráfico de espécies e crime organizado, e discute riscos de lavagem de barbatanas de origem ilegal e fragilidades nos controles CITES.",
+      "description_en": "Investigates extraordinary and retroactive export quotas for pelagic thresher shark fins approved by Peru's Environment Ministry. The report shows how the authorizations benefited major exporters, including a company linked to a wildlife-trafficking and organized-crime investigation, and examines risks of laundering illegally sourced fins and weaknesses in CITES controls.",
+      "description_es": "Investiga cuotas extraordinarias y retroactivas de exportación de aletas de tiburón zorro pelágico aprobadas por el Ministerio del Ambiente de Perú. El reportaje muestra cómo las autorizaciones beneficiaron a grandes exportadoras, incluida una empresa vinculada a una investigación por tráfico de especies y crimen organizado, y analiza riesgos de lavado de aletas de origen ilegal y debilidades en los controles CITES.",
+      "topic_code": "fraud_laundering",
+      "topic_pt": "Fraudes e lavagem",
+      "topic_en": "Fraud and laundering",
+      "topic_es": "Fraude y lavado",
+      "source_url": "https://es.mongabay.com/2026/09/peru-ministerio-ambiente-autorizo-cuotas-exportar-aletas-tiburon-beneficiaron-empresario-investigado-crimen-organizado/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "mongabay-india-2026-09-18-exotic-primates-india",
+      "publication_date": "2026-09-18",
+      "outlet": "Mongabay India",
+      "authors": [
+        "Arathi Menon"
+      ],
+      "original_language": "en",
+      "original_title": "As exotic primates reach India, welfare concerns grow",
+      "title_pt": "À medida que primatas exóticos chegam à Índia, aumentam as preocupações com bem-estar e tráfico",
+      "title_en": "As exotic primates reach India, welfare concerns grow",
+      "title_es": "A medida que primates exóticos llegan a India, crecen las preocupaciones por bienestar y tráfico",
+      "description_pt": "Analisa a expansão do comércio de primatas exóticos na Índia, incluindo orangotangos, gibões e outros primatas apreendidos em aeroportos, fronteiras e rotas marítimas. A matéria discute origem silvestre, violência na captura, transporte, demanda por pets, redes sociais, rotas via Sudeste Asiático e possíveis conexões com outras economias ilícitas.",
+      "description_en": "Examines the expansion of the exotic-primate trade into India, including orangutans, gibbons and other primates seized at airports, borders and maritime routes. It discusses wild sourcing, violence during capture, transport, pet demand, social media, Southeast Asian routes and possible links to other illicit economies.",
+      "description_es": "Analiza la expansión del comercio de primates exóticos hacia India, incluidos orangutanes, gibones y otros primates decomisados en aeropuertos, fronteras y rutas marítimas. Aborda origen silvestre, violencia durante la captura, transporte, demanda de mascotas, redes sociales, rutas por el Sudeste Asiático y posibles vínculos con otras economías ilícitas.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://india.mongabay.com/2026/09/as-exotic-primates-reach-india-welfare-concerns-grow/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "mongabay-2026-09-17-nigeria-dwarf-crocodile-bushmeat",
+      "publication_date": "2026-09-17",
+      "outlet": "Mongabay",
+      "authors": [
+        "Amir Sadiq"
+      ],
+      "original_language": "en",
+      "original_title": "World’s smallest crocodile in high demand for bushmeat trade in Nigeria",
+      "title_pt": "Menor crocodilo do mundo enfrenta alta demanda no comércio de carne silvestre na Nigéria",
+      "title_en": "World’s smallest crocodile in high demand for bushmeat trade in Nigeria",
+      "title_es": "El cocodrilo más pequeño del mundo enfrenta alta demanda en el comercio de carne silvestre en Nigeria",
+      "description_pt": "Examina o comércio do crocodilo-anão-africano em mercados de carne silvestre do Delta do Níger. A reportagem aborda demanda, preços, perfil dos vendedores, usos alimentares e medicinais, meios de vida e pressão de exploração sobre uma espécie vulnerável.",
+      "description_en": "Examines trade in African dwarf crocodiles at bushmeat markets in the Niger Delta. The story covers demand, prices, seller profiles, food and medicinal uses, livelihoods and exploitation pressure on a vulnerable species.",
+      "description_es": "Examina el comercio del cocodrilo enano africano en mercados de carne silvestre del delta del Níger. El reportaje aborda demanda, precios, perfil de vendedores, usos alimentarios y medicinales, medios de vida y presión de explotación sobre una especie vulnerable.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://news.mongabay.com/2026/09/worlds-smallest-crocodile-in-high-demand-for-bushmeat-trade-in-nigeria/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "infobae-2026-09-14-central-america-wildlife-timber-crime",
+      "publication_date": "2026-09-14",
+      "outlet": "Infobae",
+      "authors": [
+        "Thania Urías"
+      ],
+      "original_language": "es",
+      "original_title": "Por qué el tráfico de fauna y madera atrae a las mismas estructuras criminales que dominan otras economías ilícitas en la región",
+      "title_pt": "Por que o tráfico de fauna e madeira atrai as mesmas estruturas criminosas que dominam outras economias ilícitas na região",
+      "title_en": "Why wildlife and timber trafficking attract the same criminal structures that dominate other illicit economies in the region",
+      "title_es": "Por qué el tráfico de fauna y madera atrae a las mismas estructuras criminales que dominan otras economías ilícitas en la región",
+      "description_pt": "Analisa a convergência entre tráfico de fauna, madeira e outras economias ilícitas na América Central. A matéria destaca baixos riscos penais, margens de lucro, uso de ferramentas digitais e a participação de estruturas criminosas transnacionais capazes de diversificar mercadorias e rotas.",
+      "description_en": "Examines convergence between wildlife trafficking, timber crime and other illicit economies in Central America. It highlights low criminal risk, profit margins, digital tools and the role of transnational criminal structures able to diversify commodities and routes.",
+      "description_es": "Analiza la convergencia entre tráfico de fauna, madera y otras economías ilícitas en Centroamérica. Destaca bajos riesgos penales, márgenes de ganancia, herramientas digitales y la participación de estructuras criminales transnacionales capaces de diversificar mercancías y rutas.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.infobae.com/el-salvador/2026/09/14/por-que-el-trafico-de-fauna-y-madera-atrae-a-las-mismas-estructuras-criminales-que-dominan-otras-economias-ilicitas-en-la-region/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "afp-boursorama-2026-09-10-thailand-wildlife-trafficking",
+      "publication_date": "2026-09-10",
+      "outlet": "AFP / Boursorama",
+      "authors": [
+        "AFP"
+      ],
+      "original_language": "fr",
+      "original_title": "En ligne ou infiltrés, ils luttent contre le trafic d'animaux sauvages en Thaïlande",
+      "title_pt": "Online ou infiltrados: como investigadores combatem o tráfico de animais silvestres na Tailândia",
+      "title_en": "Online or undercover: how investigators fight wildlife trafficking in Thailand",
+      "title_es": "En línea o infiltrados: cómo investigadores combaten el tráfico de fauna en Tailandia",
+      "description_pt": "Descreve o trabalho de unidades tailandesas de inteligência contra o tráfico de fauna, incluindo investigadores infiltrados, monitoramento de redes sociais, operações em aeroportos e investigação de redes transfronteiriças. A matéria cobre diferentes produtos e espécies, do marfim a primatas e fauna viva.",
+      "description_en": "Describes the work of Thai wildlife-crime intelligence units, including undercover investigators, social-media monitoring, airport operations and investigations into cross-border networks. It covers multiple commodities and species, from ivory to primates and live wildlife.",
+      "description_es": "Describe el trabajo de unidades tailandesas de inteligencia contra el tráfico de fauna, incluidos investigadores infiltrados, monitoreo de redes sociales, operativos en aeropuertos e investigaciones de redes transfronterizas. Abarca diferentes productos y especies, desde marfil hasta primates y fauna viva.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://www.boursorama.com/actualite-economique/actualites/en-ligne-ou-infiltres-ils-luttent-contre-le-trafic-d-animaux-sauvages-en-thailande-f3c4fe4ad0109130de3b7145887d0021",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "mongabay-india-2026-09-10-exotic-pets-zoonotic-risk",
+      "publication_date": "2026-09-10",
+      "outlet": "Mongabay India",
+      "authors": [
+        "Arathi Menon"
+      ],
+      "original_language": "en",
+      "original_title": "Your exotic pet could be putting your health at risk",
+      "title_pt": "Seu pet exótico pode estar colocando sua saúde em risco",
+      "title_en": "Your exotic pet could be putting your health at risk",
+      "title_es": "Tu mascota exótica podría estar poniendo en riesgo tu salud",
+      "description_pt": "Examina riscos zoonóticos ao longo da cadeia do comércio de pets exóticos, da captura e transporte à venda, manejo e exposição pública. A matéria relaciona maior contato humano-fauna, cafés com animais, eventos, diversidade de patógenos e fragilidades de regulação e vigilância sanitária.",
+      "description_en": "Examines zoonotic risks across the exotic-pet trade chain, from capture and transport to sale, handling and public display. It links increased human-wildlife contact, animal cafés, events, pathogen diversity and weaknesses in regulation and health surveillance.",
+      "description_es": "Examina riesgos zoonóticos a lo largo de la cadena del comercio de mascotas exóticas, desde captura y transporte hasta venta, manejo y exhibición pública. Relaciona mayor contacto humano-fauna, cafés con animales, eventos, diversidad de patógenos y debilidades regulatorias y de vigilancia sanitaria.",
+      "topic_code": "wildlife_health",
+      "topic_pt": "Saúde da fauna",
+      "topic_en": "Wildlife health",
+      "topic_es": "Salud de la fauna",
+      "source_url": "https://india.mongabay.com/2026/09/your-exotic-pet-could-be-putting-your-health-at-risk/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "traffic-2026-09-08-indonesia-philippines-route",
+      "publication_date": "2026-09-08",
+      "outlet": "TRAFFIC",
+      "authors": [
+        "TRAFFIC"
+      ],
+      "original_language": "en",
+      "original_title": "Endangered Indonesian wildlife poached and trafficked to the Philippines",
+      "title_pt": "Fauna ameaçada da Indonésia é capturada e traficada para as Filipinas",
+      "title_en": "Endangered Indonesian wildlife poached and trafficked to the Philippines",
+      "title_es": "Fauna amenazada de Indonesia es capturada y traficada hacia Filipinas",
+      "description_pt": "Documenta uma rota persistente de tráfico entre Indonésia e Filipinas envolvendo centenas de animais ao longo de cinco anos. A análise destaca transporte marítimo, Mindanao como corredor, movimentação terrestre posterior e diversidade de espécies ameaçadas envolvidas.",
+      "description_en": "Documents a persistent trafficking route between Indonesia and the Philippines involving hundreds of animals over five years. The analysis highlights maritime transport, Mindanao as a corridor, subsequent overland movement and the diversity of threatened species involved.",
+      "description_es": "Documenta una ruta persistente de tráfico entre Indonesia y Filipinas que involucró cientos de animales durante cinco años. El análisis destaca transporte marítimo, Mindanao como corredor, movimientos terrestres posteriores y diversidad de especies amenazadas involucradas.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.traffic.org/vn/news/endangered-indonesian-wildlife-poached-and-trafficked-to-the-philippines-1/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "diario-rio-2026-09-03-message-groups-wildlife-trade",
+      "publication_date": "2026-09-03",
+      "outlet": "Diário do Rio",
+      "authors": [
+        "Mariana Motta"
+      ],
+      "original_language": "pt",
+      "original_title": "Grupos de mensagens viram mercado para o tráfico de animais silvestres no Rio",
+      "title_pt": "Grupos de mensagens viram mercado para o tráfico de animais silvestres no Rio",
+      "title_en": "Messaging groups become a marketplace for illegal wildlife trade in Rio",
+      "title_es": "Grupos de mensajería se convierten en mercado para el tráfico de fauna en Río",
+      "description_pt": "Mostra como grupos de aplicativos de mensagens são usados para anunciar aves, primatas e outras espécies no Rio de Janeiro, negociar preços, oferecer descontos e organizar entregas. A matéria evidencia a migração do comércio clandestino para canais digitais de comunicação fechada.",
+      "description_en": "Shows how messaging-app groups are used to advertise birds, primates and other species in Rio de Janeiro, negotiate prices, offer discounts and arrange deliveries. It highlights the shift of clandestine wildlife trade into closed digital communication channels.",
+      "description_es": "Muestra cómo grupos de aplicaciones de mensajería se utilizan para anunciar aves, primates y otras especies en Río de Janeiro, negociar precios, ofrecer descuentos y organizar entregas. Evidencia el traslado del comercio clandestino hacia canales digitales cerrados.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://www.diariodorio.com/meio-ambiente/2026/09/03/grupos-de-mensagens-viram-mercado-para-o-trafico-de-animais-silvestres-no-rio.html",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "mongabay-2026-08-31-coral-trafficking",
+      "publication_date": "2026-08-31",
+      "outlet": "Mongabay",
+      "authors": [
+        "Cherry Salazar"
+      ],
+      "original_language": "en",
+      "original_title": "The world’s reefs are disappearing. Coral trafficking is booming",
+      "title_pt": "Os recifes do mundo estão desaparecendo enquanto o tráfico de corais cresce",
+      "title_en": "The world’s reefs are disappearing. Coral trafficking is booming",
+      "title_es": "Los arrecifes del mundo están desapareciendo mientras crece el tráfico de corales",
+      "description_pt": "Analisa mais de 1.300 casos documentados de tráfico de corais desde 2000 em 43 países, envolvendo milhões de peças. A reportagem reconstrói rotas do Sudeste Asiático para mercados internacionais, empresas envolvidas, técnicas de ocultação e falsas declarações de carga, além da demanda do setor de aquarismo.",
+      "description_en": "Analyzes more than 1,300 documented coral-trafficking cases since 2000 across 43 countries involving millions of coral pieces. It traces Southeast Asian supply routes to international markets, businesses involved, concealment and cargo mislabeling techniques, and demand from the aquarium trade.",
+      "description_es": "Analiza más de 1.300 casos documentados de tráfico de corales desde 2000 en 43 países, con millones de piezas involucradas. Reconstruye rutas desde el Sudeste Asiático hacia mercados internacionales, empresas, técnicas de ocultamiento y declaraciones falsas de carga, además de la demanda del comercio de acuarios.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/2026/08/the-worlds-reefs-are-disappearing-coral-trafficking-is-booming/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "mongabay-india-2026-08-27-social-media-wildlife-crime-content",
+      "publication_date": "2026-08-27",
+      "outlet": "Mongabay India",
+      "authors": [
+        "Vandana K."
+      ],
+      "original_language": "en",
+      "original_title": "Crime content on social media threatens wildlife safety",
+      "title_pt": "Conteúdo de crime contra a fauna nas redes sociais ameaça a segurança da vida silvestre",
+      "title_en": "Crime content on social media threatens wildlife safety",
+      "title_es": "Contenido sobre delitos contra la fauna en redes sociales amenaza la seguridad de la vida silvestre",
+      "description_pt": "Investiga como Instagram, YouTube, Facebook e outros canais digitais na Índia hospedam conteúdo sobre caça, captura e exploração de fauna. A matéria mostra como comentários podem funcionar como espaços de negociação e como transações migram para WhatsApp e Telegram, além de discutir falhas de moderação e fiscalização.",
+      "description_en": "Investigates how Instagram, YouTube, Facebook and other digital channels in India host content involving hunting, capture and wildlife exploitation. It shows how comment sections can function as negotiation spaces and how transactions shift to WhatsApp and Telegram, while examining moderation and enforcement gaps.",
+      "description_es": "Investiga cómo Instagram, YouTube, Facebook y otros canales digitales en India alojan contenido relacionado con caza, captura y explotación de fauna. Muestra cómo los comentarios pueden funcionar como espacios de negociación y cómo las transacciones migran a WhatsApp y Telegram, además de analizar fallas de moderación y control.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://india.mongabay.com/2026/08/crime-content-on-social-media-threatens-wildlife-safety/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
+    {
+      "id": "traffic-2026-07-30-african-grey-parrot-chain",
+      "publication_date": "2026-07-30",
+      "outlet": "TRAFFIC",
+      "authors": [
+        "TRAFFIC"
+      ],
+      "original_language": "en",
+      "original_title": "Before the cage: tackling African grey parrot trafficking from forests to buyers",
+      "title_pt": "Antes da gaiola: enfrentando o tráfico de papagaios-cinzentos-africanos da floresta aos compradores",
+      "title_en": "Before the cage: tackling African grey parrot trafficking from forests to buyers",
+      "title_es": "Antes de la jaula: enfrentando el tráfico de loros grises africanos desde los bosques hasta los compradores",
+      "description_pt": "Analisa a cadeia do tráfico de papagaios-cinzentos-africanos desde paisagens de origem em Camarões até potenciais compradores na China. A matéria combina ações comunitárias, inteligência local e campanhas digitais de redução de demanda, além de apontar comércio emergente de sangue, crânios e penas vermelhas.",
+      "description_en": "Examines the African grey parrot trafficking chain from source landscapes in Cameroon to potential buyers in China. It combines community engagement, local intelligence gathering and digital demand-reduction campaigns, while highlighting emerging trade in blood, skulls and red tail feathers.",
+      "description_es": "Analiza la cadena del tráfico de loros grises africanos desde paisajes de origen en Camerún hasta potenciales compradores en China. Combina trabajo comunitario, inteligencia local y campañas digitales de reducción de demanda, además de destacar un comercio emergente de sangre, cráneos y plumas rojas.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://www.traffic.org/vn/news/before-the-cage-tackling-african-grey-parrot-trafficking-from-forests-to-buyers/",
+      "added_at": "2026-09-24T05:42:00Z"
+    },
     {
       "id": "mongabay-2026-09-23-australia-wildlife-trafficking-crackdown",
       "publication_date": "2026-09-23",
@@ -1071,9 +1313,9 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "single_news_2026-09-24_australia",
-    "added": 1,
-    "resulting_count": 48,
-    "updated_at": "2026-09-24T05:35:00Z"
+    "batch": "multilingual_news_batch_11_2026-09-24",
+    "added": 11,
+    "resulting_count": 59,
+    "updated_at": "2026-09-24T05:42:00Z"
   }
 }
