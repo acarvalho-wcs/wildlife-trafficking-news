@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-22T09:23:00Z",
+  "updated_at": "2026-09-24T05:35:00Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 47,
+  "count": 48,
   "news": [
+    {
+      "id": "mongabay-2026-09-23-australia-wildlife-trafficking-crackdown",
+      "publication_date": "2026-09-23",
+      "outlet": "Mongabay",
+      "authors": [
+        "Johan Augustin"
+      ],
+      "original_language": "en",
+      "original_title": "Reptiles, gold and money: How Australia is cracking down on wildlife trafficking",
+      "title_pt": "Répteis, ouro e dinheiro: como a Austrália está intensificando o combate ao tráfico de fauna",
+      "title_en": "Reptiles, gold and money: How Australia is cracking down on wildlife trafficking",
+      "title_es": "Reptiles, oro y dinero: cómo Australia está intensificando el combate al tráfico de fauna",
+      "description_pt": "Examina a intensificação da resposta australiana ao tráfico de fauna, combinando casos recentes, novas estruturas de fiscalização e padrões de exportação ilegal de répteis nativos. A reportagem descreve métodos de ocultação, uso de intermediários e empresas de transporte, lucros elevados no mercado internacional e o papel da nova National EPA na investigação de redes e bens associados ao crime.",
+      "description_en": "Examines Australia's expanding response to wildlife trafficking through recent cases, new enforcement structures and patterns in the illegal export of native reptiles. It describes concealment methods, the use of intermediaries and shipping companies, high overseas profits and the role of the new National EPA in investigating networks and crime-linked assets.",
+      "description_es": "Examina el fortalecimiento de la respuesta australiana al tráfico de fauna mediante casos recientes, nuevas estructuras de fiscalización y patrones de exportación ilegal de reptiles nativos. Describe métodos de ocultamiento, uso de intermediarios y empresas de transporte, altos beneficios en mercados internacionales y el papel de la nueva National EPA en la investigación de redes y activos vinculados al delito.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/2026/09/reptiles-gold-and-money-how-australia-is-cracking-down-on-wildlife-trafficking/",
+      "added_at": "2026-09-24T05:35:00Z"
+    },
     {
       "id": "mongabay-indonesia-2026-09-14-orangutan-india-aceh-route",
       "publication_date": "2026-09-14",
@@ -1049,9 +1071,9 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "manual_news_batch_15_2026-09-22",
-    "added": 15,
-    "resulting_count": 47,
-    "updated_at": "2026-09-22T09:23:00Z"
+    "batch": "single_news_2026-09-24_australia",
+    "added": 1,
+    "resulting_count": 48,
+    "updated_at": "2026-09-24T05:35:00Z"
   }
 }
