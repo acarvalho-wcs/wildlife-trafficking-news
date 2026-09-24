@@ -1,12 +1,66 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-23T15:03:37Z",
+  "updated_at": "2026-09-24T15:10:37Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 0,
-  "candidates": []
+  "count": 3,
+  "candidates": [
+    {
+      "id": "candidate-7f3a8355d3f8ebda",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-09-24",
+      "outlet_domain": "navbharattimes.indiatimes.com",
+      "authors_raw": [],
+      "original_language_hint": "Hindi",
+      "original_title": "ताशी शेरपा, जिसके सामने वीरप्पन और पुष्पा भी फेल, टाइगर की खाल-हड्डियों की तस्करी, 9 साल फरारी और 4 देशों का नेटवर्क, अब जमानत कैंसिल",
+      "source_url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/narmadapuram/tashi-sherpa-international-tiger-smuggler-satpura-case-jail/articleshow/134444762.cms",
+      "source_description": "ताशी शेरपा...टाइगर की खाल-हड्डियों की तस्करी के आरोपी की कहानी किसी फिल्मी किरदार से कम नहीं। करीब 9 साल तक एजेंसियों से बचता रहा, जड़ी-बूटी के कारोबार की आड़ में सीमा पार आवाजाही करता रहा। जांच में भारत से नेपाल, भूटान और चीन तक नेटवर्क की कड़ियां सामने आईं। अब नर्मदापुरम कोर्ट ने उसकी अपील खारिज कर सजा बरकरार रखी है...",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-24T15:09:10Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-64cd91293825a856",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-09-23",
+      "outlet_domain": "floridaweekly.com",
+      "authors_raw": [
+        "Staff"
+      ],
+      "original_language_hint": "English",
+      "original_title": "What to do, Where to go - Florida Weekly",
+      "source_url": "https://floridaweekly.com/articles/naples-ae/what-to-do-where-to-go-3564",
+      "source_description": "TOP PICKS Play For A Cause: Bonita Springs YMCA Charity Golf Tournament – Charity golf tournament at Vasari Golf & Country Club on Friday, Sept. 25, with an 8:30 a.m. shotgun start. Support youth and family programs through a four-person scramble. Tickets are $175.oo per golfer or $700.00 per foursome. 11250 Via Del Vasari Drive, Bonita Springs. 239-596-0645 or my.onecause.com. <a href=\"https://www.floridaweekly.com/articles/naples-ae/what-to-do-where-to-go-3564/\">[…]</a>",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-24T15:09:17Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-0be1800060cc46c5",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-09-22",
+      "outlet_domain": "timesofindia.indiatimes.com",
+      "authors_raw": [],
+      "original_language_hint": "English",
+      "original_title": "SC directs Wildlife SOS chief Kartick Satyanarayan to join leopard poaching probe on Sept 28",
+      "source_url": "https://timesofindia.indiatimes.com/city/bhopal/sc-directs-wildlife-sos-chief-kartick-satyanarayan-to-join-leopard-poaching-probe-on-sept-28/articleshow/134419737.cms",
+      "source_description": "Supreme Court on Monday directed Wildlife SOS CEO and co-founder Kartick Satyanarayan to appear before Madhya Pradesh Forest authorities in Shivpuri on Sept 28 and fully cooperate with the investigation into the alleged poaching of leopards in the Kuno landscape.",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 6,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-24T15:09:22Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    }
+  ]
 }
