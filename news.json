@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-24T05:42:00Z",
+  "updated_at": "2026-09-25T00:10:00Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 59,
+  "count": 60,
   "news": [
+    {
+      "id": "phnom-penh-post-2026-09-15-meta-cambodia-wildlife",
+      "publication_date": "2026-09-15",
+      "outlet": "Phnom Penh Post",
+      "authors": [
+        "Josh Sayle"
+      ],
+      "original_language": "en",
+      "original_title": "Meta Must Do More to Protect Cambodia’s Wildlife",
+      "title_pt": "Meta precisa fazer mais para proteger a fauna do Camboja",
+      "title_en": "Meta Must Do More to Protect Cambodia’s Wildlife",
+      "title_es": "Meta debe hacer más para proteger la fauna de Camboya",
+      "description_pt": "Artigo de opinião que defende maior responsabilidade da Meta no enfrentamento ao comércio ilegal de fauna nas plataformas digitais no Camboja. O texto chama atenção para a persistência de ofertas e conexões entre compradores e vendedores nas redes sociais e argumenta que respostas reativas, como remover publicações ou contas após denúncias, são insuficientes sem detecção proativa, moderação consistente e cooperação com autoridades e organizações especializadas.",
+      "description_en": "Opinion piece arguing that Meta should take greater responsibility for countering illegal wildlife trade on digital platforms in Cambodia. It highlights the persistence of wildlife offers and buyer-seller connections on social media and argues that reactive measures such as removing posts or accounts after reports are insufficient without proactive detection, consistent moderation and cooperation with authorities and specialist organizations.",
+      "description_es": "Artículo de opinión que sostiene que Meta debe asumir una mayor responsabilidad frente al comercio ilegal de fauna en plataformas digitales en Camboya. Destaca la persistencia de ofertas y conexiones entre compradores y vendedores en redes sociales y argumenta que medidas reactivas, como eliminar publicaciones o cuentas después de denuncias, son insuficientes sin detección proactiva, moderación consistente y cooperación con autoridades y organizaciones especializadas.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://phnompenhpost.com/opinion/meta-must-do-more-to-protect-cambodias-wildlifejosh-op-ed/",
+      "added_at": "2026-09-25T00:10:00Z"
+    },
     {
       "id": "mongabay-latam-2026-09-21-peru-shark-fin-quotas",
       "publication_date": "2026-09-21",
@@ -1313,9 +1335,9 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "multilingual_news_batch_11_2026-09-24",
-    "added": 11,
-    "resulting_count": 59,
-    "updated_at": "2026-09-24T05:42:00Z"
+    "batch": "single_news_2026-09-25_phnom_penh_post_meta",
+    "added": 1,
+    "resulting_count": 60,
+    "updated_at": "2026-09-25T00:10:00Z"
   }
 }
