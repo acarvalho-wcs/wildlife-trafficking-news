@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-25T00:10:00Z",
+  "updated_at": "2026-09-25T12:40:00Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 60,
+  "count": 61,
   "news": [
+    {
+      "id": "peta-2026-09-22-monkey-smuggling-us-labs",
+      "publication_date": "2026-09-22",
+      "outlet": "PETA",
+      "authors": [
+        "Amanda Hays"
+      ],
+      "original_language": "en",
+      "original_title": "Monkeys, Weapons, and Drugs: Inside the Monkey-Smuggling Networks Supplying U.S. Labs",
+      "title_pt": "Macacos, armas e drogas: por dentro das redes de contrabando que abastecem laboratórios dos EUA",
+      "title_en": "Monkeys, Weapons, and Drugs: Inside the Monkey-Smuggling Networks Supplying U.S. Labs",
+      "title_es": "Monos, armas y drogas: dentro de las redes de contrabando que abastecen laboratorios de EE. UU.",
+      "description_pt": "Publicação de advocacy da PETA que reúne casos e investigações sobre o contrabando de macacos-de-cauda-longa no Sudeste Asiático e seu possível abastecimento da cadeia internacional de primatas para pesquisa biomédica nos Estados Unidos. O texto descreve rotas Tailândia–Camboja, falsificação de origem como animais criados em cativeiro, fluxos via Vietnã, China e Laos e alegada convergência logística com contrabando de armas, cigarros, pessoas e outras mercadorias ilícitas. As interpretações e conclusões sobre a indústria de experimentação refletem a posição institucional da PETA.",
+      "description_en": "PETA advocacy publication compiling cases and investigations concerning the smuggling of long-tailed macaques in Southeast Asia and their alleged entry into the international primate supply chain serving U.S. biomedical research. It describes Thailand–Cambodia routes, false labeling of wild-caught animals as captive-bred, flows involving Vietnam, China and Laos, and alleged logistical convergence with weapons, cigarette, migrant and other contraband smuggling. Interpretations and conclusions about the animal-research industry reflect PETA's institutional position.",
+      "description_es": "Publicación de advocacy de PETA que reúne casos e investigaciones sobre el contrabando de macacos de cola larga en el Sudeste Asiático y su presunta incorporación a la cadena internacional de primates que abastece la investigación biomédica en Estados Unidos. Describe rutas Tailandia–Camboya, falsificación del origen de animales silvestres como criados en cautiverio, flujos vinculados con Vietnam, China y Laos y una presunta convergencia logística con contrabando de armas, cigarrillos, personas y otras mercancías ilícitas. Las interpretaciones y conclusiones sobre la industria de experimentación reflejan la posición institucional de PETA.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.peta.org/news/monkeys-weapons-and-drugs-inside-the-monkey-smuggling-networks-supplying-u-s-labs/",
+      "added_at": "2026-09-25T12:40:00Z"
+    },
     {
       "id": "phnom-penh-post-2026-09-15-meta-cambodia-wildlife",
       "publication_date": "2026-09-15",
@@ -1335,9 +1357,9 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "single_news_2026-09-25_phnom_penh_post_meta",
+    "batch": "single_news_2026-09-25_peta_monkey_smuggling",
     "added": 1,
-    "resulting_count": 60,
-    "updated_at": "2026-09-25T00:10:00Z"
+    "resulting_count": 61,
+    "updated_at": "2026-09-25T12:40:00Z"
   }
 }
