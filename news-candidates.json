@@ -1,14 +1,33 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-25T15:20:51Z",
+  "updated_at": "2026-09-26T14:34:41Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 20,
+  "count": 21,
   "candidates": [
+    {
+      "id": "candidate-5ab097a8e7f2ffb4",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-09-25",
+      "outlet_domain": "libertaddigital.com",
+      "authors_raw": [
+        "LD/Agencias"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "La Guardia Civil incauta 209 reptiles y cuatro pistolas a una red de tráfico de animales",
+      "source_url": "https://libertaddigital.com/sucesos/2026-09-25/la-guardia-civil-incauta-209-reptiles-y-cuatro-pistolas-a-una-red-de-trafico-de-animales-7465629",
+      "source_description": "Los agentes del Seprona hallaron a los animales hacinados en condiciones insalubres dentro de varios domicilios de la provincia.",
+      "discovery_query": "illegal wildlife trade",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-26T14:31:24Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-e95565d88421f248",
       "status": "CANDIDATE_UNREVIEWED",
