@@ -1,14 +1,52 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-29T16:35:05Z",
+  "updated_at": "2026-09-30T16:28:25Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 33,
+  "count": 36,
   "candidates": [
+    {
+      "id": "candidate-35ec2e5859677c7d",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-09-30",
+      "outlet_domain": "ellitoral.com",
+      "authors_raw": [
+        "Danilo Chiapello"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "Impulsan una audiencia pública para prohibir el turismo cinegético en Santa Fe",
+      "source_url": "https://ellitoral.com/sucesos/impulsan-audiencia-publica-prohibir-turismo-cinegetico-santa-fe_0_JW6RU5XHsH.html",
+      "source_description": "La iniciativa presentada en la Legislatura propone terminar con los cotos de caza y el turismo cinegético en todo el territorio provincial. Sus impulsores sostienen que no buscan prohibir toda la caza deportiva, sino una modalidad organizada como negocio turístico y dirigida principalmente a visitantes extranjeros. El proyecto ya está en la Comisión de Agricultura y Ganadería y ahora se busca una audiencia pública para ampliar el debate.",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-30T16:25:40Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-1d01432b9ae63115",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-09-30",
+      "outlet_domain": "vanguardngr.com",
+      "authors_raw": [
+        "Nwafor"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Customs repatriates baby gorilla to Congo",
+      "source_url": "https://vanguardngr.com/2026/09/customs-repatriates-baby-gorilla-to-congo",
+      "source_description": "…SWO records 22 wildlife seizures, rescues 699 animals By Providence Ayanfeoluwa The Nigeria Customs Service (NCS) has repatriated Bili, a rescued baby gorilla, to the Republic of Congo in what it described as its first full-cycle international wildlife operation. The repatriation, conducted between September 22 and 28, 2026, marked a milestone in the Service’s efforts […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-30T16:25:40Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-fec64b8af1586595",
       "status": "CANDIDATE_UNREVIEWED",
@@ -562,6 +600,25 @@
       "broad_reporting_score": 3,
       "inspection_status": "OK",
       "discovered_at": "2026-09-25T15:19:06Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-e8845032438a90ad",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-05-24",
+      "outlet_domain": "kormorant.co.za",
+      "authors_raw": [
+        "DeonvH"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Conservation pioneer Eugene Cussons dies in Hartbeespoort",
+      "source_url": "https://kormorant.co.za/conservation-pioneer-eugene-cussons-dies-in-hartbeespoort",
+      "source_description": "A renowned wildlife protector and anti-poaching advocate who died in a paramotor accident in Hartbeespoortt leaves behind a lasting legacy. Eugene Cussons The global conservation community woke up to the devastating news that the beloved conservationist and paramotor pilot Eugene Cussons (47), died in a paramotor accident,",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-09-30T16:25:45Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
