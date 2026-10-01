@@ -1,14 +1,37 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-28T14:43:00Z",
+  "updated_at": "2026-10-01T14:16:41Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 67,
+  "count": 68,
   "news": [
+    {
+      "id": "mongabay-2026-10-01-vantara-brazil-conservation-talks",
+      "publication_date": "2026-10-01",
+      "outlet": "Mongabay",
+      "authors": [
+        "Fernanda Wenzel",
+        "Spoorthy Raman"
+      ],
+      "original_language": "en",
+      "original_title": "Vantara in talks with Brazil on ‘strategic cooperation’ on threatened species, FOIA documents reveal",
+      "title_pt": "Documentos obtidos pela Lei de Acesso à Informação revelam negociações da Vantara com o Brasil sobre cooperação para espécies ameaçadas",
+      "title_en": "Vantara in talks with Brazil on ‘strategic cooperation’ on threatened species, FOIA documents reveal",
+      "title_es": "Documentos obtenidos mediante acceso a la información revelan negociaciones de Vantara con Brasil sobre cooperación para especies amenazadas",
+      "description_pt": "Com base em documentos obtidos pela Lei de Acesso à Informação, examina negociações de cooperação entre Vantara e autoridades brasileiras, incluindo a conservação da ararinha-azul. Aborda transparência, transferências internacionais e investigações em andamento, distinguindo propostas documentadas de alegações de tráfico. A Vantara nega irregularidades.",
+      "description_en": "Drawing on freedom-of-information documents, examines cooperation talks between Vantara and Brazilian authorities, including Spix’s macaw conservation. Addresses transparency, international transfers and ongoing investigations, distinguishing documented proposals from trafficking allegations. Vantara denies wrongdoing.",
+      "description_es": "A partir de documentos obtenidos mediante acceso a la información, examina negociaciones de cooperación entre Vantara y autoridades brasileñas, incluida la conservación del guacamayo de Spix. Aborda transparencia, transferencias internacionales e investigaciones en curso, distinguiendo propuestas documentadas de acusaciones de tráfico. Vantara niega irregularidades.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/2026/10/vantara-in-talks-with-brazil-on-strategic-cooperation-on-threatened-species-foia-documents-reveal/",
+      "added_at": "2026-10-01T14:16:41Z"
+    },
     {
       "id": "mongabay-india-2026-09-25-exotic-pet-abandonment",
       "publication_date": "2026-09-25",
@@ -1489,10 +1512,10 @@
     }
   ],
   "last_manual_ingestion": {
-    "batch": "single_news_2026-09-25_peta_monkey_smuggling",
+    "batch": "single_news_2026-10-01_vantara_brazil_conservation_talks",
     "added": 1,
-    "resulting_count": 61,
-    "updated_at": "2026-09-25T12:40:00Z"
+    "resulting_count": 68,
+    "updated_at": "2026-10-01T14:16:41Z"
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-09-28",
