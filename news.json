@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-01T14:16:41Z",
+  "updated_at": "2026-10-02T14:13:19Z",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 68,
+  "count": 72,
   "news": [
     {
       "id": "mongabay-2026-10-01-vantara-brazil-conservation-talks",
@@ -31,6 +31,50 @@
       "topic_es": "Gobernanza y control",
       "source_url": "https://news.mongabay.com/2026/10/vantara-in-talks-with-brazil-on-strategic-cooperation-on-threatened-species-foia-documents-reveal/",
       "added_at": "2026-10-01T14:16:41Z"
+    },
+    {
+      "id": "excelsior-2026-09-30-mexico-digital-wildlife-trade",
+      "publication_date": "2026-09-30",
+      "outlet": "Excélsior",
+      "authors": [
+        "Paul Lara"
+      ],
+      "original_language": "es",
+      "original_title": "Frenar la venta ilegal de animales silvestres, una fuerte problemática",
+      "title_pt": "Frear a venda ilegal de animais silvestres: um problema grave",
+      "title_en": "Curbing the illegal sale of wild animals remains a major challenge",
+      "title_es": "Frenar la venta ilegal de animales silvestres, una fuerte problemática",
+      "description_pt": "Com base em dados do Sistema Global de Monitoramento e em respostas da Profepa, investiga como o Facebook Marketplace e aplicativos de mensagens sustentam o comércio ilegal de fauna no México. Contrasta milhares de anúncios detectados com a capacidade limitada do governo, descreve a migração das negociações para canais privados e examina a lavagem de animais capturados na natureza por meio de faturas e registros de criadouros.",
+      "description_en": "Drawing on Global Monitoring System data and responses from Profepa, investigates how Facebook Marketplace and messaging apps sustain illegal wildlife trade in Mexico. It contrasts thousands of detected listings with limited government capacity, describes negotiations shifting to private channels, and examines how invoices and breeding-facility records can be used to launder wild-caught animals.",
+      "description_es": "A partir de datos del Sistema Global de Monitoreo y respuestas de la Profepa, investiga cómo Facebook Marketplace y las aplicaciones de mensajería sostienen el comercio ilegal de fauna en México. Contrasta miles de anuncios detectados con la capacidad limitada del gobierno, describe el traslado de las negociaciones a canales privados y examina el lavado de animales capturados en la naturaleza mediante facturas y registros de criaderos.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://www.excelsior.com.mx/nacional/frenar-venta-ilegal-animales-silvestres-fuerte-problematica",
+      "added_at": "2026-10-02T14:13:19Z"
+    },
+    {
+      "id": "indian-express-2026-09-28-nepal-elephant-ngo-probe",
+      "publication_date": "2026-09-28",
+      "outlet": "The Indian Express",
+      "authors": [
+        "Jay Mazoomdaar"
+      ],
+      "original_language": "en",
+      "original_title": "Elephant smuggled from Nepal, trail points to NGO in leopard poaching probe",
+      "title_pt": "Elefanta contrabandeada do Nepal: pistas levam a ONG investigada por caça ilegal de leopardos",
+      "title_en": "Elephant smuggled from Nepal, trail points to NGO in leopard poaching probe",
+      "title_es": "Elefanta traficada desde Nepal: pistas apuntan a una ONG investigada por caza furtiva de leopardos",
+      "description_pt": "Com base em registros do Wildlife Crime Control Bureau e entrevistas, reconstrói a alegada compra de uma elefanta contrabandeada do Nepal para Uttar Pradesh e pistas digitais associadas a pessoas ligadas à Wildlife SOS, hoje investigada em um caso separado de caça ilegal de leopardos. A reportagem aponta falhas no seguimento das pistas; a organização e os citados negam conhecimento ou irregularidades, e os processos permanecem em investigação.",
+      "description_en": "Drawing on Wildlife Crime Control Bureau records and interviews, reconstructs the alleged purchase of a female elephant smuggled from Nepal into Uttar Pradesh and digital leads associated with people linked to Wildlife SOS, now under scrutiny in a separate leopard-poaching case. The report identifies gaps in follow-up; the organization and named individuals deny knowledge or wrongdoing, and the cases remain under investigation.",
+      "description_es": "A partir de registros del Wildlife Crime Control Bureau y entrevistas, reconstruye la presunta compra de una elefanta traficada desde Nepal hacia Uttar Pradesh y pistas digitales asociadas con personas vinculadas a Wildlife SOS, investigada actualmente en un caso separado de caza furtiva de leopardos. El reportaje señala fallas en el seguimiento; la organización y las personas citadas niegan conocimiento o irregularidades, y los casos siguen bajo investigación.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://indianexpress.com/article/india/elephant-smuggling-nepal-wildlife-sos-nepal-elephant-leopard-poaching-probe-10896696/",
+      "added_at": "2026-10-02T14:13:19Z"
     },
     {
       "id": "mongabay-india-2026-09-25-exotic-pet-abandonment",
@@ -539,6 +583,29 @@
       "added_at": "2026-09-10T00:00:00-04:00"
     },
     {
+      "id": "business-insider-2026-08-27-undercover-wildlife-poaching",
+      "publication_date": "2026-08-27",
+      "outlet": "Business Insider",
+      "authors": [
+        "Dylan Brzezinski",
+        "Matthew Ferrera"
+      ],
+      "original_language": "en",
+      "original_title": "How illegal wildlife poaching actually works, according to an undercover investigator",
+      "title_pt": "Como funciona de fato a caça ilegal de fauna, segundo uma investigadora infiltrada",
+      "title_en": "How illegal wildlife poaching actually works, according to an undercover investigator",
+      "title_es": "Cómo funciona realmente la caza furtiva de fauna, según una investigadora encubierta",
+      "description_pt": "Em entrevista em vídeo, a criminóloga da fauna Allison Skidmore explica como se infiltrou em redes de caça e tráfico na Rússia, Malásia e Chifre da África. O material descreve a cadeia entre caçadores, intermediários e mercados, além de corrupção, lavagem de dinheiro e uso de pontos de trânsito vulneráveis.",
+      "description_en": "In a video interview, wildlife criminologist Allison Skidmore explains how she went undercover in poaching and trafficking networks in Russia, Malaysia and the Horn of Africa. The report describes links among hunters, intermediaries and markets, as well as corruption, money laundering and the exploitation of vulnerable transit hubs.",
+      "description_es": "En una entrevista en video, la criminóloga de fauna Allison Skidmore explica cómo se infiltró en redes de caza furtiva y tráfico en Rusia, Malasia y el Cuerno de África. El reportaje describe la cadena entre cazadores, intermediarios y mercados, además de la corrupción, el lavado de dinero y el uso de puntos de tránsito vulnerables.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.businessinsider.com/how-wildlife-poaching-works-according-to-an-undercover-investigator-2026-8",
+      "added_at": "2026-10-02T14:13:19Z"
+    },
+    {
       "id": "mongabay-india-2026-08-27-social-media-wildlife-crime-content",
       "publication_date": "2026-08-27",
       "outlet": "Mongabay India",
@@ -713,6 +780,28 @@
       "topic_es": "Redes y rutas",
       "source_url": "https://news.mongabay.com/2026/08/on-ivory-follow-the-trafficking-networks-and-not-the-headlines-commentary/",
       "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "jurnalpatrolinews-2026-08-09-indonesia-wildlife-networks",
+      "publication_date": "2026-08-09",
+      "outlet": "JurnalPatroliNews",
+      "authors": [
+        "JurnalPatroliNews"
+      ],
+      "original_language": "id",
+      "original_title": "Dari Hutan ke Pasar Gelap: Begini Jejak Perdagangan Satwa Dilindungi di Indonesia",
+      "title_pt": "Da floresta ao mercado negro: os caminhos do comércio de fauna protegida na Indonésia",
+      "title_en": "From forest to black market: Tracing the trade in protected wildlife in Indonesia",
+      "title_es": "Del bosque al mercado negro: las rutas del comercio de fauna protegida en Indonesia",
+      "description_pt": "Reúne investigações e casos de 2026 para mapear como animais e partes protegidas circulam de florestas e áreas costeiras da Indonésia por redes de coletores, transportadores, portos, aeroportos e canais digitais. A reportagem conecta casos envolvendo elefantes, dragões-de-komodo, pangolins, aves e tartarugas a rotas domésticas e internacionais, e defende a investigação de financiadores e compradores finais.",
+      "description_en": "Brings together 2026 investigations and cases to map how protected animals and wildlife parts move from Indonesia’s forests and coasts through networks of collectors, transporters, ports, airports and digital channels. It links cases involving elephants, Komodo dragons, pangolins, birds and turtles to domestic and international routes and calls for investigations of financiers and end buyers.",
+      "description_es": "Reúne investigaciones y casos de 2026 para mapear cómo animales y partes protegidas circulan desde bosques y zonas costeras de Indonesia por redes de recolectores, transportistas, puertos, aeropuertos y canales digitales. Vincula casos de elefantes, dragones de Komodo, pangolines, aves y tortugas con rutas nacionales e internacionales y reclama investigar a financiadores y compradores finales.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://jurnalpatrolinews.co.id/headline/dari-hutan-ke-pasar-gelap-begini-jejak-perdagangan-satwa-dilindungi-di-indonesia/",
+      "added_at": "2026-10-02T14:13:19Z"
     },
     {
       "id": "mongabay-indonesia-2026-08-07-west-sumatra",
@@ -1518,9 +1607,9 @@
     "updated_at": "2026-10-01T14:16:41Z"
   },
   "last_automated_ingestion": {
-    "batch": "automated_news_2026-09-28",
-    "added": 6,
-    "resulting_count": 67,
-    "updated_at": "2026-09-28T14:43:00Z"
+    "batch": "automated_news_2026-10-02",
+    "added": 4,
+    "resulting_count": 72,
+    "updated_at": "2026-10-02T14:13:19Z"
   }
 }
