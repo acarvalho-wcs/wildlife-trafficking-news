@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-02T14:13:19Z",
+  "updated_at": "2026-10-06T12:40:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 72,
+  "count": 73,
   "news": [
     {
       "id": "mongabay-2026-10-01-vantara-brazil-conservation-talks",
@@ -1598,13 +1598,36 @@
       "topic_es": "Redes y rutas",
       "source_url": "https://oeco.org.br/reportagens/relatorio-aponta-amazonia-como-epicentro-do-trafico-de-animais-silvestres-no-brasil/",
       "added_at": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "conexao-planeta-guarulhos-quase-80-ovos-aves",
+      "publication_date": "2024-10-21",
+      "outlet": "Conexão Planeta",
+      "authors": [
+        "Suzana Camargo"
+      ],
+      "original_language": "pt",
+      "original_title": "Em poucas semanas, quase 80 ovos de aves são apreendidos com passageiros no Aeroporto de Guarulhos",
+      "title_pt": "Em poucas semanas, quase 80 ovos de aves são apreendidos com passageiros no Aeroporto de Guarulhos",
+      "title_en": "Nearly 80 bird eggs seized from passengers at Guarulhos Airport within a few weeks",
+      "title_es": "En pocas semanas, casi 80 huevos de aves son incautados a pasajeros en el Aeropuerto de Guarulhos",
+      "description_pt": "Reportagem reúne apreensões de ovos de aves transportados por passageiros no Aeroporto Internacional de Guarulhos e contextualiza o uso do terminal em ocorrências de tráfico internacional de fauna, com atuação de órgãos ambientais e policiais.",
+      "description_en": "Reports on bird-egg seizures involving passengers at São Paulo/Guarulhos International Airport and places the airport within the context of international wildlife-trafficking cases and enforcement action.",
+      "description_es": "Reúne incautaciones de huevos de aves transportados por pasajeros en el Aeropuerto Internacional de São Paulo/Guarulhos y contextualiza el uso del terminal en casos de tráfico internacional de fauna y acciones de fiscalización.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://conexaoplaneta.com.br/blog/em-poucas-semanas-quase-80-ovos-de-aves-sao-apreendidos-com-passageiros-no-aeroporto-de-guarulhos/",
+      "added_at": "2026-10-06T12:40:00-04:00"
     }
   ],
   "last_manual_ingestion": {
-    "batch": "single_news_2026-10-01_vantara_brazil_conservation_talks",
-    "added": 1,
-    "resulting_count": 68,
-    "updated_at": "2026-10-01T14:16:41Z"
+    "at": "2026-10-06T12:40:00-04:00",
+    "added_ids": [
+      "conexao-planeta-guarulhos-quase-80-ovos-aves"
+    ],
+    "note": "Manual inclusion requested by curator."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
