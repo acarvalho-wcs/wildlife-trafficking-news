@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-06T14:20:00-04:00",
+  "updated_at": "2026-10-06T15:54:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 131,
+  "count": 133,
   "news": [
     {
       "id": "mongabay-2026-10-01-vantara-brazil-conservation-talks",
@@ -2835,17 +2835,59 @@
       "topic_es": "Gobernanza y control",
       "source_url": "https://news.mongabay.com/2026/09/ngos-call-on-vantara-to-end-all-wild-animal-imports-permanently/",
       "added_at": "2026-10-06T14:20:00-04:00"
+    },
+    {
+      "id": "thenewsminute-2025-10-21-vantara-suppression-campaign",
+      "publication_date": "2025-10-21",
+      "outlet": "The News Minute",
+      "authors": [
+        "Azeefa Fathima"
+      ],
+      "original_language": "en",
+      "original_title": "Bogus law firm and fake Google notices: The murky online campaign to suppress stories on Vantara",
+      "title_pt": "Escritório de advocacia falso e notificações fraudulentas do Google: a campanha obscura para suprimir reportagens sobre o Vantara",
+      "title_en": "Bogus law firm and fake Google notices: The murky online campaign to suppress stories on Vantara",
+      "title_es": "Bufete de abogados falso y notificaciones fraudulentas de Google: la turbia campaña para suprimir reportajes sobre Vantara",
+      "description_pt": "Investigação relata que jornalistas e redações na África, Brasil, República Tcheca, Alemanha e Índia receberam e-mails falsos, notificações jurídicas fraudulentas e reivindicações de direitos autorais destinadas a pressionar pela remoção ou alteração de reportagens críticas ao Vantara. A matéria ressalta que não foi estabelecida a identidade de quem coordenou as ações e contextualiza os episódios com a posterior decisão da Suprema Corte da Índia que aceitou as conclusões da SIT.",
+      "description_en": "Investigation reports that journalists and newsrooms in Africa, Brazil, the Czech Republic, Germany and India received fake emails, spoofed legal notices and copyright claims intended to pressure them to remove or alter reporting critical of Vantara. The article notes that the identity of whoever coordinated the actions was not established and contextualizes the incidents with the later Indian Supreme Court decision accepting the SIT findings.",
+      "description_es": "Investigación informa que periodistas y redacciones de África, Brasil, República Checa, Alemania e India recibieron correos falsos, avisos legales fraudulentos y reclamaciones de derechos de autor destinadas a presionar para retirar o modificar reportajes críticos sobre Vantara. La nota subraya que no se estableció la identidad de quienes coordinaron las acciones y contextualiza los episodios con la posterior decisión de la Corte Suprema de India que aceptó las conclusiones del SIT.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://www.thenewsminute.com/news/bogus-law-firm-and-fake-google-notices-the-murky-online-campaign-to-suppress-stories-on-vantara-zoo",
+      "added_at": "2026-10-06T15:54:00-04:00"
+    },
+    {
+      "id": "pulitzercenter-2024-03-20-reliance-wildlife-ambitions",
+      "publication_date": "2024-03-20",
+      "outlet": "Pulitzer Center",
+      "authors": [
+        "M. Rajshekhar"
+      ],
+      "original_language": "en",
+      "original_title": "The Costs of Reliance’s Wildlife Ambitions",
+      "title_pt": "Os custos das ambições da Reliance para a fauna silvestre",
+      "title_en": "The Costs of Reliance’s Wildlife Ambitions",
+      "title_es": "Los costos de las ambiciones de Reliance para la fauna silvestre",
+      "description_pt": "Reportagem investigativa de referência sobre a expansão que viria a ser conhecida como Vantara, examinando transferências de elefantes, crescimento acelerado do acervo, múltiplas fontes de animais, mudanças regulatórias na Índia, aquisições internacionais e controvérsias sobre rastreabilidade e finalidade conservacionista, incluindo transferências de ararinhas-azuis-de-Spix, papagaios-de-são-vicente e araras-de-lear a partir da ACTP.",
+      "description_en": "Foundational investigative report on the expansion that became known as Vantara, examining elephant transfers, rapid collection growth, multiple sourcing channels, regulatory changes in India, international acquisitions and controversies over traceability and conservation rationale, including transfers of Spix’s macaws, St Vincent amazons and Lear’s macaws from ACTP.",
+      "description_es": "Reportaje de investigación de referencia sobre la expansión que pasó a conocerse como Vantara, que examina traslados de elefantes, rápido crecimiento de la colección, múltiples fuentes de animales, cambios regulatorios en India, adquisiciones internacionales y controversias sobre trazabilidad y finalidad de conservación, incluidos traslados de guacamayos de Spix, amazonas de San Vicente y guacamayos de Lear desde ACTP.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://pulitzercenter.org/stories/costs-reliances-wildlife-ambitions",
+      "added_at": "2026-10-06T15:54:00-04:00"
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-06T14:20:00-04:00",
+    "at": "2026-10-06T15:54:00-04:00",
     "added_ids": [
-      "theprint-2026-03-19-vantara-leopards",
-      "mediaindonesia-2026-04-29-vantara-bandung-zoo",
-      "evnreport-2026-07-10-yerevan-vantara",
-      "mongabay-global-2026-09-25-vantara-moratorium"
+      "thenewsminute-2025-10-21-vantara-suppression-campaign",
+      "pulitzercenter-2024-03-20-reliance-wildlife-ambitions"
     ],
-    "note": "Completed Vantara 2025-2026 reporting batch."
+    "note": "Added two Vantara-related investigative reports: The News Minute (2025) and Pulitzer Center (2024)."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
