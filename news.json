@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-06T12:40:00-04:00",
+  "updated_at": "2026-10-06T12:50:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
@@ -1601,7 +1601,7 @@
     },
     {
       "id": "conexao-planeta-guarulhos-quase-80-ovos-aves",
-      "publication_date": "2024-10-21",
+      "publication_date": "2026-10-06",
       "outlet": "Conexão Planeta",
       "authors": [
         "Suzana Camargo"
@@ -1623,11 +1623,11 @@
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-06T12:40:00-04:00",
-    "added_ids": [
+    "at": "2026-10-06T12:50:00-04:00",
+    "updated_ids": [
       "conexao-planeta-guarulhos-quase-80-ovos-aves"
     ],
-    "note": "Manual inclusion requested by curator."
+    "note": "Corrected publication date for Conexao Planeta article to 2026-10-06 per curator verification."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
