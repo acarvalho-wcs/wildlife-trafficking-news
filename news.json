@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-06T14:12:00-04:00",
+  "updated_at": "2026-10-06T14:20:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 127,
+  "count": 131,
   "news": [
     {
       "id": "mongabay-2026-10-01-vantara-brazil-conservation-talks",
@@ -2747,34 +2747,105 @@
       "topic_en": "Networks and routes",
       "topic_es": "Redes y rutas",
       "added_at": "2026-10-06T14:12:00-04:00"
+    },
+    {
+      "id": "theprint-2026-03-19-vantara-leopards",
+      "publication_date": "2026-03-19",
+      "outlet": "ThePrint",
+      "authors": [
+        "Kasturi Walimbe"
+      ],
+      "original_language": "en",
+      "original_title": "Maharashtra’s sugarcane leopards: Vantara ‘fix’ sparks conservation debate amid human-wildlife conflict",
+      "title_pt": "Leopardos dos canaviais de Maharashtra: solução Vantara gera debate de conservação",
+      "title_en": "Maharashtra’s sugarcane leopards: Vantara ‘fix’ sparks conservation debate amid human-wildlife conflict",
+      "title_es": "Leopardos de cañaverales de Maharashtra: la solución Vantara genera debate de conservación",
+      "description_pt": "Discute a transferência de leopardos capturados em paisagens agrícolas de Maharashtra para o Vantara e o debate sobre cativeiro, coexistência e manejo de conflitos humano-fauna.",
+      "description_en": "Examines transfers of captured leopards from agricultural landscapes in Maharashtra to Vantara and debate over captivity, coexistence and human-wildlife conflict management.",
+      "description_es": "Analiza el traslado de leopardos capturados en paisajes agrícolas de Maharashtra a Vantara y el debate sobre cautiverio, coexistencia y manejo de conflictos humano-fauna.",
+      "topic_code": "conservation",
+      "topic_pt": "Conservação",
+      "topic_en": "Conservation",
+      "topic_es": "Conservación",
+      "source_url": "https://theprint.in/india/governance/vantara-leopards-maharashtra-sugarcane-human-animal-conflict/2877837/",
+      "added_at": "2026-10-06T14:20:00-04:00"
+    },
+    {
+      "id": "mediaindonesia-2026-04-29-vantara-bandung-zoo",
+      "publication_date": "2026-04-29",
+      "outlet": "Media Indonesia",
+      "authors": [
+        "Naviandri"
+      ],
+      "original_language": "id",
+      "original_title": "Tim Veteriner Vantara Kolaborasi Perkuat Penanganan Kesehatan Satwa di Bandung Zoo",
+      "title_pt": "Equipe veterinária do Vantara coopera para fortalecer o atendimento à fauna no Bandung Zoo",
+      "title_en": "Vantara veterinary team collaborates to strengthen animal health care at Bandung Zoo",
+      "title_es": "Equipo veterinario de Vantara colabora para fortalecer la atención de fauna en Bandung Zoo",
+      "description_pt": "Relata cooperação técnica entre a equipe veterinária do Vantara, autoridades locais e o Bandung Zoo para saúde, bem-estar e suporte médico aos animais.",
+      "description_en": "Reports technical cooperation among Vantara's veterinary team, local authorities and Bandung Zoo on animal health, welfare and medical support.",
+      "description_es": "Informa sobre cooperación técnica entre el equipo veterinario de Vantara, autoridades locales y Bandung Zoo para salud, bienestar y apoyo médico a los animales.",
+      "topic_code": "conservation",
+      "topic_pt": "Conservação",
+      "topic_en": "Conservation",
+      "topic_es": "Conservación",
+      "source_url": "https://mediaindonesia.com/nusantara/884906/tim-veteriner-vantara-kolaborasi-perkuat-penanganan-kesehatan-satwa-di-bandung-zoo",
+      "added_at": "2026-10-06T14:20:00-04:00"
+    },
+    {
+      "id": "evnreport-2026-07-10-yerevan-vantara",
+      "publication_date": "2026-07-10",
+      "outlet": "EVN Report",
+      "authors": [
+        "Mariam Tashchyan"
+      ],
+      "original_language": "en",
+      "original_title": "Yerevan's endangered animals transferred to Indian billionaire's private cages, investigation reveals",
+      "title_pt": "Animais ameaçados de Yerevan foram transferidos para instalações privadas de bilionário indiano",
+      "title_en": "Yerevan's endangered animals transferred to Indian billionaire's private cages, investigation reveals",
+      "title_es": "Animales amenazados de Ereván fueron trasladados a instalaciones privadas de un multimillonario indio",
+      "description_pt": "Investigação relata a transferência de 14 ursos-pardos e 12 grifos do zoológico de Yerevan para o Vantara e questiona transparência, supervisão e justificativa conservacionista.",
+      "description_en": "Investigation reports the transfer of 14 brown bears and 12 griffon vultures from Yerevan Zoo to Vantara and raises questions about transparency, oversight and conservation rationale.",
+      "description_es": "Investigación informa sobre el traslado de 14 osos pardos y 12 buitres leonados desde el zoológico de Ereván a Vantara y plantea dudas sobre transparencia, supervisión y justificación conservacionista.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.karlammann.com/news",
+      "added_at": "2026-10-06T14:20:00-04:00"
+    },
+    {
+      "id": "mongabay-global-2026-09-25-vantara-moratorium",
+      "publication_date": "2026-09-25",
+      "outlet": "Mongabay",
+      "authors": [
+        "Spoorthy Raman"
+      ],
+      "original_language": "en",
+      "original_title": "NGOs call on Vantara to end all wild animal imports permanently",
+      "title_pt": "ONGs pedem que Vantara encerre permanentemente todas as importações de animais silvestres",
+      "title_en": "NGOs call on Vantara to end all wild animal imports permanently",
+      "title_es": "ONG piden a Vantara terminar permanentemente todas las importaciones de animales silvestres",
+      "description_pt": "Coalizão de organizações pede moratória permanente, maior transparência, fiscalização independente e critérios mais rigorosos para futuras aquisições do Vantara.",
+      "description_en": "A coalition of organizations calls for a permanent import moratorium, greater transparency, independent oversight and stricter criteria for future Vantara acquisitions.",
+      "description_es": "Una coalición de organizaciones pide una moratoria permanente, mayor transparencia, supervisión independiente y criterios más estrictos para futuras adquisiciones de Vantara.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://news.mongabay.com/2026/09/ngos-call-on-vantara-to-end-all-wild-animal-imports-permanently/",
+      "added_at": "2026-10-06T14:20:00-04:00"
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-06T14:12:00-04:00",
+    "at": "2026-10-06T14:20:00-04:00",
     "added_ids": [
-      "hindustantimes-2025-08-26-vantara-probe",
-      "mongabay-india-2025-08-27-vantara-investigation",
-      "theprint-2025-09-09-vantara-195-questions",
-      "barandbench-2025-09-12-vantara-sit-report",
-      "barandbench-2025-09-15-vantara-findings",
-      "indianexpress-2025-09-16-vantara-cleared",
-      "ndtv-2025-09-15-vantara-clean-chit",
-      "hindustantimes-2025-09-15-vantara-clean-chit",
-      "prnewswire-2025-11-12-vantara-sanctuary-stories",
-      "occrp-2025-11-03-vantara-gorilla-haiti",
-      "antara-2025-12-23-vantara-eehv",
-      "antara-2025-12-24-vantara-elephant-hospitals",
-      "indianexpress-2026-03-02-vantara-anniversary",
-      "barandbench-2026-03-19-vantara-imports",
-      "scroll-2026-03-20-vantara-pil",
-      "mongabay-2026-05-07-vantara-brazil-probe",
-      "mongabay-2026-06-01-vantara-golden-monkey",
-      "livemint-2026-08-20-vantara-cites-pledge",
-      "antara-2026-08-24-vantara-indonesia-cooperation",
-      "mongabay-2026-09-10-vantara-lobbyist",
-      "tbs-2026-09-11-vantara-lemurs"
+      "theprint-2026-03-19-vantara-leopards",
+      "mediaindonesia-2026-04-29-vantara-bandung-zoo",
+      "evnreport-2026-07-10-yerevan-vantara",
+      "mongabay-global-2026-09-25-vantara-moratorium"
     ],
-    "note": "Vantara reporting batch 2."
+    "note": "Completed Vantara 2025-2026 reporting batch."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
