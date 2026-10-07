@@ -1,14 +1,34 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-07T17:06:00-04:00",
+  "updated_at": "2026-10-07T17:20:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 136,
+  "count": 138,
   "news": [
+    {
+      "id": "nia-thailand-2026-10-07-latin-american-amazon-wildlife-markets",
+      "publication_date": "2026-10-07",
+      "outlet": "National Intelligence Agency of Thailand",
+      "authors": [],
+      "original_language": "th",
+      "original_title": "สัตว์ป่าจากภูมิภาคละตินอเมริกาถูกลักลอบมาขายในไทยเพิ่มขึ้น",
+      "title_pt": "Fauna da América Latina e da Amazônia é cada vez mais contrabandeada para venda na Tailândia",
+      "title_en": "Wildlife from Latin America and the Amazon is increasingly smuggled for sale in Thailand",
+      "title_es": "Fauna de América Latina y la Amazonía es cada vez más contrabandeada para su venta en Tailandia",
+      "description_pt": "Nota da Agência Nacional de Inteligência da Tailândia, baseada em reportagem da Mongabay e observações de campo associadas à WCS, que alerta para o aumento da oferta de fauna latino-americana e da bacia Amazônica em mercados tailandeses de pets exóticos. O texto menciona Iquitos, no Peru, como possível ponto de trânsito e descreve risco de lavagem documental de animais capturados na natureza como se fossem criados em cativeiro. Trata-se de uma fonte institucional secundária e não de uma verificação independente de cada exemplar observado.",
+      "description_en": "A note from Thailand’s National Intelligence Agency, based on Mongabay reporting and field observations associated with WCS, warning of an increase in Latin American and Amazon-basin wildlife offered in Thailand’s exotic-pet markets. It cites Iquitos, Peru, as a possible transit point and describes the risk of documentary laundering of wild-caught animals as captive-bred. This is an institutional secondary source rather than an independent verification of every specimen observed.",
+      "description_es": "Nota de la Agencia Nacional de Inteligencia de Tailandia, basada en un reportaje de Mongabay y observaciones de campo asociadas con WCS, que alerta sobre el aumento de fauna latinoamericana y de la cuenca amazónica ofrecida en mercados tailandeses de mascotas exóticas. Menciona Iquitos, Perú, como posible punto de tránsito y describe el riesgo de lavado documental de animales capturados en la naturaleza como si fueran criados en cautiverio. Es una fuente institucional secundaria y no una verificación independiente de cada ejemplar observado.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e controle",
+      "topic_en": "Governance and control",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://www.nia.go.th/news/page/detail/15268/",
+      "added_at": "2026-10-07T17:20:00-04:00"
+    },
     {
       "id": "mongabay-2026-10-05-latin-american-species-bangkok-market",
       "publication_date": "2026-10-05",
@@ -1396,6 +1416,26 @@
       "topic_es": "Redes y rutas",
       "source_url": "https://mongabay.co.id/2026/04/03/jaringan-kejahatan-satwa-kian-massif-dari-hiu-hingga-serangga/",
       "added_at": "2026-09-22T09:23:00Z"
+    },
+    {
+      "id": "traffic-2026-03-23-vietnam-wild-animals-pets-online-demand",
+      "publication_date": "2026-03-23",
+      "outlet": "TRAFFIC",
+      "authors": [],
+      "original_language": "en",
+      "original_title": "Rising demand in vietnam for wild animals as pets, online monitoring shows",
+      "title_pt": "Monitoramento online revela aumento da demanda por animais silvestres como pets no Vietnã",
+      "title_en": "Rising demand in Vietnam for wild animals as pets, online monitoring shows",
+      "title_es": "Monitoreo en línea revela aumento de la demanda de animales silvestres como mascotas en Vietnam",
+      "description_pt": "Apresenta monitoramento de redes sociais no Vietnã que identificou 35.100 discussões sobre animais silvestres como pets entre setembro de 2023 e agosto de 2024, das quais 28% promoviam diretamente compra ou venda. O estudo abrange quelônios de água doce e terrestres, primatas, gatos-leopardo, papagaios-cinzentos e lontras e mostra o papel de Facebook e TikTok na conexão entre compradores e vendedores. A análise não distingue de forma sistemática comércio legal e ilegal nem é específica de fauna amazônica, mas fornece contexto robusto sobre a demanda digital no mercado vietnamita.",
+      "description_en": "Reports social-media monitoring in Vietnam that identified 35,100 discussions about wild animals as pets between September 2023 and August 2024, with 28% directly promoting buying or selling. The study covers tortoises and freshwater turtles, monkeys, leopard cats, African grey parrots and otters, and highlights the role of Facebook and TikTok in connecting buyers and sellers. The analysis does not systematically distinguish legal from illegal trade and is not specific to Amazonian wildlife, but it provides strong context on digital demand in Vietnam’s pet market.",
+      "description_es": "Presenta un monitoreo de redes sociales en Vietnam que identificó 35.100 discusiones sobre animales silvestres como mascotas entre septiembre de 2023 y agosto de 2024, de las cuales el 28% promovía directamente la compra o venta. El estudio abarca tortugas terrestres y de agua dulce, primates, gatos leopardo, loros grises africanos y nutrias, y muestra el papel de Facebook y TikTok en conectar compradores y vendedores. El análisis no distingue sistemáticamente entre comercio legal e ilegal y no es específico de fauna amazónica, pero aporta un contexto sólido sobre la demanda digital en el mercado vietnamita.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://www.traffic.org/news/rising-demand-in-vietnam-for-wild-animals-as-pets-online-monitoring-shows/",
+      "added_at": "2026-10-07T17:20:00-04:00"
     },
     {
       "id": "bellingcat-2026-03-19-coded-language-facebook",
