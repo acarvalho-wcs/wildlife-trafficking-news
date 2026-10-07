@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-06T15:54:00-04:00",
+  "updated_at": "2026-10-07T17:06:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 133,
+  "count": 136,
   "news": [
+    {
+      "id": "mongabay-2026-10-05-latin-american-species-bangkok-market",
+      "publication_date": "2026-10-05",
+      "outlet": "Mongabay",
+      "authors": [
+        "Mongabay.com"
+      ],
+      "original_language": "en",
+      "original_title": "More Latin American species are surfacing at a Bangkok wildlife market",
+      "title_pt": "Mais espécies latino-americanas aparecem em mercado de fauna de Bangkok",
+      "title_en": "More Latin American species are surfacing at a Bangkok wildlife market",
+      "title_es": "Más especies latinoamericanas aparecen en un mercado de fauna de Bangkok",
+      "description_pt": "Atualização da investigação sobre o aumento de fauna latino-americana no comércio de pets exóticos em Bangkok. A matéria destaca saguis, macacos-prego, tamarins, capivaras, matamatás e peixes amazônicos, relacionando a oferta a cadeias que podem começar na Amazônia, passar por hubs como Iquitos e envolver lavagem documental antes da chegada ao mercado asiático. É um seguimento da reportagem de setembro e não demonstra que todos os espécimes observados tenham origem ilegal.",
+      "description_en": "Follow-up to the investigation into the growing presence of Latin American wildlife in Bangkok’s exotic-pet trade. It highlights marmosets, capuchin monkeys, tamarins, capybaras, matamata turtles and Amazonian fish, linking supply to chains that may begin in the Amazon, pass through hubs such as Iquitos and involve documentary laundering before reaching Asian markets. It follows the September investigation and does not establish that every specimen observed was illegally sourced.",
+      "description_es": "Actualización de la investigación sobre la creciente presencia de fauna latinoamericana en el comercio de mascotas exóticas de Bangkok. Destaca titíes, monos capuchinos, tamarinos, capibaras, tortugas matamata y peces amazónicos, vinculando la oferta con cadenas que pueden comenzar en la Amazonía, pasar por centros como Iquitos e involucrar lavado documental antes de llegar a los mercados asiáticos. Es un seguimiento del reportaje de septiembre y no demuestra que todos los ejemplares observados tengan origen ilegal.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/short-article/2026/10/more-latin-american-species-are-surfacing-at-a-bangkok-wildlife-market/",
+      "added_at": "2026-10-07T17:06:00-04:00"
+    },
     {
       "id": "mongabay-2026-10-01-vantara-brazil-conservation-talks",
       "publication_date": "2026-10-01",
@@ -1002,6 +1024,28 @@
       "added_at": "2026-09-22T04:12:00-04:00"
     },
     {
+      "id": "globe-2026-07-21-pet-expo-championship-bangkok-exotic-pets",
+      "publication_date": "2026-07-21",
+      "outlet": "Globe News Bangkok",
+      "authors": [
+        "Kyron Michael"
+      ],
+      "original_language": "en",
+      "original_title": "Pet Expo Championship 2026 To Return With Exciting Competitions",
+      "title_pt": "Pet Expo Championship 2026 reúne pets exóticos e espécies sul-americanas em Bangkok",
+      "title_en": "Pet Expo Championship 2026 features exotic pets and South American species in Bangkok",
+      "title_es": "Pet Expo Championship 2026 reúne mascotas exóticas y especies sudamericanas en Bangkok",
+      "description_pt": "Apresenta a Pet Expo Championship 2026, feira comercial de Bangkok com mais de 600 estandes e mais de 200 empresas. A programação inclui uma Exotic Pet Land com saguis, tartarugas, lagartos e serpentes e uma Pet Village com capivaras, entre outros animais. A cobertura documenta a presença de fauna sul-americana em um grande ambiente comercial de pets, mas não comprova que cada animal vivo exibido estivesse à venda nem estabelece origem ilegal.",
+      "description_en": "Profiles Pet Expo Championship 2026, a major Bangkok pet fair with more than 600 booths and over 200 companies. The program includes an Exotic Pet Land featuring marmosets, tortoises, geckos and snakes, and a Pet Village with capybaras among other animals. The report documents South American wildlife within a large commercial pet setting but does not establish that every live animal on display was for sale or illegally sourced.",
+      "description_es": "Presenta Pet Expo Championship 2026, una gran feria comercial de mascotas en Bangkok con más de 600 puestos y más de 200 empresas. El programa incluye una Exotic Pet Land con titíes, tortugas, geckos y serpientes, y una Pet Village con capibaras, entre otros animales. La cobertura documenta la presencia de fauna sudamericana en un gran entorno comercial de mascotas, pero no demuestra que cada animal vivo exhibido estuviera a la venta ni que tuviera origen ilegal.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://www.globe.co.th/lifestyle/in-the-know/pet-expo-championship-2026-to-return-with-exciting-competitions/",
+      "added_at": "2026-10-07T17:06:00-04:00"
+    },
+    {
       "id": "mongabay-2026-07-15-laos-illegal-wildlife-shops",
       "publication_date": "2026-07-15",
       "outlet": "Mongabay",
@@ -1288,6 +1332,26 @@
       "topic_es": "Comercio digital",
       "source_url": "https://news.mongabay.com/2026/05/facebook-is-a-hub-for-illegal-wildlife-trade-and-thats-by-design-report-says/",
       "added_at": "2026-09-22T04:12:00-04:00"
+    },
+    {
+      "id": "khaosod-2026-05-01-pet-expo-thailand-south-american-fauna",
+      "publication_date": "2026-05-01",
+      "outlet": "Khaosod",
+      "authors": [],
+      "original_language": "th",
+      "original_title": "พาน้องหมา น้องแมว เที่ยวงาน PET EXPO THAILAND 2026 อัดแน่นสินค้าโปรโมชั่น กิจกรรมสุดมันส์",
+      "title_pt": "Pet Expo Thailand 2026 reúne fauna exótica e espécies sul-americanas em Bangkok",
+      "title_en": "Pet Expo Thailand 2026 features exotic wildlife and South American species in Bangkok",
+      "title_es": "Pet Expo Thailand 2026 reúne fauna exótica y especies sudamericanas en Bangkok",
+      "description_pt": "Cobertura da Pet Expo Thailand 2026, feira comercial realizada em Bangkok com mais de 300 empresas e 850 estandes. A matéria descreve uma zona de animais exóticos e uma Pet Village que exibiam capivaras, maras-patagônicas, cutias, macacos-esquilo e pacas, além de outras espécies. O registro é relevante para caracterizar demanda e normalização comercial de fauna sul-americana, mas não demonstra que cada animal exibido estivesse à venda nem que tivesse origem ilegal.",
+      "description_en": "Coverage of Pet Expo Thailand 2026, a commercial fair in Bangkok with more than 300 companies and 850 booths. The article describes an exotic-animal zone and a Pet Village displaying capybaras, Patagonian maras, agoutis, squirrel monkeys and pacas, among other species. It is relevant to characterizing demand and the commercial normalization of South American wildlife, but it does not establish that every animal displayed was for sale or illegally sourced.",
+      "description_es": "Cobertura de Pet Expo Thailand 2026, una feria comercial celebrada en Bangkok con más de 300 empresas y 850 puestos. La nota describe una zona de animales exóticos y una Pet Village donde se exhibían capibaras, maras patagónicas, agutíes, monos ardilla y pacas, entre otras especies. El registro es relevante para caracterizar la demanda y la normalización comercial de fauna sudamericana, pero no demuestra que cada animal exhibido estuviera a la venta ni que tuviera origen ilegal.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://www.khaosod.co.th/economics/news_10229645",
+      "added_at": "2026-10-07T17:06:00-04:00"
     },
     {
       "id": "mongabay-indonesia-2026-04-06-online-modes",
