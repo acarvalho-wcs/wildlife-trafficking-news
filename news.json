@@ -7,7 +7,7 @@
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 164,
+  "count": 165,
   "news": [
     {
       "id": "mongabay-2026-10-08-01",
@@ -152,6 +152,28 @@
       "topic_es": "Redes y rutas",
       "source_url": "https://www.theguardian.com/world/2026/oct/05/man-caught-with-tortoises-parrots-bound-malta-sicilian-port",
       "added_at": "2026-10-06T13:10:00-04:00"
+    },
+    {
+      "id": "forbes-2026-10-04-ecoshark-brazil-shark-threats",
+      "publication_date": "2026-10-04",
+      "outlet": "Forbes",
+      "authors": [
+        "Melissa Cristina Márquez"
+      ],
+      "original_language": "en",
+      "original_title": "How Brazilian Scientists Are Revealing The Hidden Threats Facing Sharks",
+      "title_pt": "Como cientistas brasileiros revelam ameaças pouco visíveis aos tubarões",
+      "title_en": "How Brazilian Scientists Are Revealing The Hidden Threats Facing Sharks",
+      "title_es": "Cómo científicos brasileños revelan amenazas poco visibles para los tiburones",
+      "description_pt": "Reportagem sobre o projeto EcoShark, que investiga ameaças aos tubarões no litoral do Rio de Janeiro combinando análise de contaminantes, telemetria, genética e colaboração com comunidades pesqueiras. Destaca a detecção de sertralina em tecidos de tubarões, incluindo tubarões-martelo; a detecção não comprova efeitos biológicos adversos. Aborda também pesca incidental, degradação de habitats e conservação baseada em evidências. Não documenta um evento específico de tráfico ilegal.",
+      "description_en": "Feature on the EcoShark project studying threats to sharks along the Rio de Janeiro coast through contaminant analysis, telemetry, genetics and collaboration with fishing communities. Highlights detection of sertraline in shark tissues, including hammerheads; detection alone does not demonstrate adverse biological effects. Also covers bycatch, habitat degradation and evidence-based conservation. Does not document a specific wildlife-trafficking incident.",
+      "description_es": "Reportaje sobre el proyecto EcoShark y las amenazas para tiburones en la costa de Río de Janeiro, investigadas mediante análisis de contaminantes, telemetría, genética y colaboración con comunidades pesqueras. Destaca la detección de sertralina en tejidos de tiburones, incluidos tiburones martillo; su detección no demuestra efectos biológicos adversos. Aborda captura incidental, degradación del hábitat y conservación basada en evidencia. No documenta un evento específico de tráfico ilegal.",
+      "topic_code": "conservation",
+      "topic_pt": "Conservação",
+      "topic_en": "Conservation",
+      "topic_es": "Conservación",
+      "source_url": "https://www.forbes.com/sites/melissacristinamarquez/2026/10/04/how-brazilian-scientists-are-revealing-the-hidden-threats-facing-sharks/",
+      "added_at": "2026-10-11T10:00:00-04:00"
     },
     {
       "id": "mongabay-2026-10-02-04",
@@ -3519,19 +3541,9 @@
   "last_manual_ingestion": {
     "at": "2026-10-11T10:00:00-04:00",
     "added_ids": [
-      "dof-laos-2026-nid-318",
-      "dof-laos-2026-nid-316",
-      "dof-laos-2026-nid-314",
-      "dof-laos-2026-nid-311",
-      "dof-laos-2026-nid-308",
-      "dof-laos-2026-nid-306",
-      "dof-laos-2026-nid-297",
-      "dof-laos-2026-nid-296",
-      "dof-laos-2026-nid-284",
-      "dof-laos-2026-nid-271",
-      "dof-laos-2026-nid-286"
+      "forbes-2026-10-04-ecoshark-brazil-shark-threats"
     ],
-    "note": "Curated 11 governmental contextual publications from Lao PDR Department of Forestry; exact URL/ID dedup. Display date is the reported event date proxy, not an independently verified publication timestamp. Individual seizure bulletins excluded."
+    "note": "Forbes scientific conservation reporting added in PT/EN/ES. Not an illegal wildlife-trafficking event."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
