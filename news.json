@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-15T15:51:00-04:00",
+  "updated_at": "2026-10-15T16:00:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 167,
+  "count": 172,
   "news": [
     {
       "id": "mongabay-2026-10-08-01",
@@ -3581,15 +3581,128 @@
       "topic_es": "Redes y rutas",
       "source_url": "https://www.occrp.org/en/news/jaguar-trafficking-in-latin-america-persists-through-bone-paste-and-pet-smuggling",
       "added_at": "2026-10-15T15:51:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-10-15-cambodia-macaque-trade-cites",
+      "publication_date": "2026-10-15",
+      "outlet": "Mongabay",
+      "authors": [
+        "Gerald Flynn"
+      ],
+      "original_language": "en",
+      "original_title": "Cambodia was told to clean up its monkey trade. Regulators say it still hasn’t",
+      "title_pt": "Camboja mantém lacunas no controle do comércio de macacos para pesquisas",
+      "title_en": "Cambodia's macaque trade still faces regulatory gaps",
+      "title_es": "Camboya mantiene vacíos regulatorios en el comercio de macacos",
+      "description_pt": "Investigação examina avaliação recente da CITES sobre o controle da captura, criação e exportação de macacos-de-cauda-longa do Camboja para pesquisa biomédica. Relata progresso limitado em metas de prevenção da lavagem de animais capturados na natureza como criados em cativeiro e discute fiscalização, registros e riscos de corrupção. O texto diferencia preocupações regulatórias e acusações de violações comprovadas.",
+      "description_en": "Investigates a recent CITES assessment of Cambodia's capture, breeding and export controls for long-tailed macaques supplied to biomedical research. Reports limited progress against targets intended to prevent laundering of wild-caught animals as captive-bred, and discusses traceability, enforcement and corruption concerns. Regulatory findings are distinguished from proved criminal offenses.",
+      "description_es": "Investiga una evaluación reciente de CITES sobre la captura, cría y exportación de macacos de cola larga de Camboya destinados a investigación biomédica. Documenta avances limitados para prevenir el blanqueo de ejemplares silvestres como criados en cautiverio y analiza trazabilidad, control y riesgos de corrupción. Diferencia preocupaciones regulatorias de delitos comprobados.",
+      "topic_code": "fraud_laundering",
+      "topic_pt": "Fraude e lavagem",
+      "topic_en": "Fraud and laundering",
+      "topic_es": "Fraude y blanqueo",
+      "source_url": "https://news.mongabay.com/2026/10/cambodia-was-told-to-clean-up-its-monkey-trade-regulators-say-it-still-hasnt/",
+      "added_at": "2026-10-15T16:00:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-10-14-chinese-social-media-laos-wildlife",
+      "publication_date": "2026-10-14",
+      "outlet": "Mongabay",
+      "authors": [
+        "Mongabay.com"
+      ],
+      "original_language": "en",
+      "original_title": "Chinese social media used to promote illegal wildlife trade in Laos",
+      "title_pt": "Redes sociais chinesas promovem mercados de fauna ilegal no Laos",
+      "title_en": "Chinese social media promotes illegal wildlife trade in Laos",
+      "title_es": "Redes sociales chinas promocionan mercados ilegales de fauna en Laos",
+      "description_pt": "Apuração identifica centenas de vídeos que divulgam mercados de fauna no Laos para turistas chineses em WeChat Channels, Douyin e Xiaohongshu. As imagens incluem pangolins vivos e partes de fauna protegida, apesar de políticas de moderação de algumas plataformas e advertências oficiais sobre a ilegalidade do comércio. Vídeos de oferta ou consumo não são tomados como prova de rotas de exportação específicas.",
+      "description_en": "Reports hundreds of videos on WeChat Channels, Douyin and Xiaohongshu that promote Lao wildlife markets to Chinese tourists. Footage includes live pangolins and protected wildlife products despite platform policies and official warnings about prohibited trade. Online promotion is not automatically evidence of any particular international shipment.",
+      "description_es": "Documenta cientos de videos en WeChat Channels, Douyin y Xiaohongshu que promocionan mercados de fauna en Laos entre turistas chinos. Incluyen pangolines vivos y partes de especies protegidas pese a normas de moderación y advertencias oficiales. La promoción en línea no demuestra por sí misma una ruta concreta de exportación.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio digital",
+      "topic_en": "Digital trade",
+      "topic_es": "Comercio digital",
+      "source_url": "https://news.mongabay.com/2026/10/chinese-social-media-used-to-promote-illegal-wildlife-trade-in-laos/",
+      "added_at": "2026-10-15T16:00:00-04:00"
+    },
+    {
+      "id": "mongabay-india-2026-10-01-exotic-pets-law",
+      "publication_date": "2026-10-01",
+      "outlet": "Mongabay India",
+      "authors": [
+        "Arathi Menon"
+      ],
+      "original_language": "en",
+      "original_title": "Legal system fails to keep pace with India’s growing exotic pet industry",
+      "title_pt": "Legislação indiana enfrenta dificuldades para acompanhar mercado de pets exóticos",
+      "title_en": "Indian laws struggle to keep pace with exotic pet trade",
+      "title_es": "La legislación india no logra seguir el ritmo del comercio de mascotas exóticas",
+      "description_pt": "Reportagem da série From the Wild, For Trade examina como mudanças legais indianas, registro de mais de 40 mil animais exóticos declarados em 2020 e fiscalização fragmentada afetam rastreabilidade e controle do comércio. Explora mercados físicos e digitais, fragilidades de biosegurança e destinação pós-apreensão. Ressalta que manter ou comercializar espécies exóticas não é automaticamente ilegal quando há autorizações aplicáveis.",
+      "description_en": "Part of the From the Wild, For Trade series, this investigation assesses India's changing rules for exotic pets, fragmented enforcement and the registration of more than 40,000 declared non-native pets in 2020. Explores physical and digital markets, biosecurity and post-seizure care, while distinguishing lawfully regulated exotic ownership from trafficking.",
+      "description_es": "Parte de la serie From the Wild, For Trade, examina las reglas indias sobre mascotas exóticas, fiscalización fragmentada y más de 40.000 animales declarados en 2020. Aborda mercados presenciales y digitales, bioseguridad y destino de ejemplares incautados, distinguiendo la posesión legalmente regulada del tráfico.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e fiscalização",
+      "topic_en": "Governance and enforcement",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://india.mongabay.com/2026/10/legal-system-fails-to-keep-pace-with-indias-growing-exotic-pet-industry/",
+      "added_at": "2026-10-15T16:00:00-04:00"
+    },
+    {
+      "id": "mongabay-latam-2026-10-05-peru-41t-shark-fins",
+      "publication_date": "2026-10-05",
+      "outlet": "Mongabay Latam",
+      "authors": [
+        "Cristina Fernández Aguilar"
+      ],
+      "original_language": "es",
+      "original_title": "Perú: incautan 41 toneladas de aletas de tiburón a empresa cuestionada y Fiscalía de Crimen Organizado abre proceso de investigación",
+      "title_pt": "Investigação no Peru apura 41 toneladas de barbatanas de tubarão e irregularidades documentais",
+      "title_en": "Peru investigates 41 tonnes of shark fins and disputed export paperwork",
+      "title_es": "Perú investiga 41 toneladas de aletas de tiburón y documentación irregular",
+      "description_pt": "Investigação documental sobre apreensão de aproximadamente 41 toneladas de barbatanas secas em armazéns de exportadora peruana e investigação preliminar do Ministério Público. Examina divergências de espécies declaradas, certificados de desembarque e sanções anteriores, além da hipótese oficial de lavagem documental de barbatanas e ligação com compradores em Hong Kong. As conexões Equador–Peru investigadas são hipóteses, não rotas confirmadas para todo o material.",
+      "description_en": "Document-driven investigation into the seizure of approximately 41 tonnes of dried shark fins from a Peruvian exporter's warehouses and a preliminary prosecutorial inquiry. Reviews species mismatches, landing certificates, prior penalties and alleged document laundering, with authorities citing buyers in Hong Kong. A possible Ecuador–Peru sourcing channel remains an investigative hypothesis rather than a confirmed route for every fin.",
+      "description_es": "Investigación documental sobre el decomiso de unas 41 toneladas de aletas secas en almacenes de una exportadora peruana y la investigación preliminar fiscal. Examina divergencias de especies, certificados de desembarque, sanciones previas y presunto blanqueo documental, con referencias a compradores en Hong Kong. La procedencia ecuatoriana es una hipótesis investigativa y no una ruta acreditada para todo el material.",
+      "topic_code": "fraud_laundering",
+      "topic_pt": "Fraude e lavagem",
+      "topic_en": "Fraud and laundering",
+      "topic_es": "Fraude y blanqueo",
+      "source_url": "https://es.mongabay.com/2026/10/peru-incautan-toneladas-aletas-tiburon-empresa-cuestionada-fiscalia-crimen-organizado-abre-investigacion/",
+      "added_at": "2026-10-15T16:00:00-04:00"
+    },
+    {
+      "id": "occrp-2022-08-01-rare-bird-trafficking-ring",
+      "publication_date": "2022-08-01",
+      "outlet": "OCCRP",
+      "authors": [
+        "Denise Hruby"
+      ],
+      "original_language": "en",
+      "original_title": "‘Astronomical Money’: How Smugglers Made Tens of Millions Moving Rare Birds Around the World",
+      "title_pt": "Investigação revela rede transcontinental de contrabando de aves raras e falsificação de documentos",
+      "title_en": "Investigation exposes transcontinental rare-bird smuggling and CITES permit fraud",
+      "title_es": "Investigación revela una red transcontinental de contrabando de aves y fraude documental",
+      "description_pt": "Investigação da OCCRP reconstrói rede de contrabando de aves raras da América do Sul e Ásia para colecionadores europeus, com base em processos, dados alfandegários, mensagens e entrevista com ex-transportador. Descreve anilhas falsas, reutilização de permissões CITES e pagamentos elevados, além de casos envolvendo criadores e instituições que compraram aves. Relatos do ex-integrante são diferenciados de provas judiciais e estimativas de receita.",
+      "description_en": "OCCRP investigation reconstructs a trafficking ring moving rare birds from South America and Asia to European collectors, using court records, customs evidence, messages and an interview with a former courier. Describes forged leg rings, reused CITES permits and high-value deliveries, including buyers linked to breeding and conservation facilities. Former couriers' claims are distinguished from court evidence and revenue estimates.",
+      "description_es": "Investigación de OCCRP reconstruye una red de contrabando de aves raras desde Sudamérica y Asia hacia coleccionistas europeos, mediante expedientes, pruebas aduaneras, mensajes y una entrevista a un antiguo transportista. Describe anillas falsas, reutilización de permisos CITES y entregas de alto valor, incluso a compradores vinculados con criaderos e instituciones. Distingue testimonios, pruebas judiciales y estimaciones económicas.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.occrp.org/en/investigation/astronomical-money-how-smugglers-made-tens-of-millions-moving-rare-birds-around-the-world",
+      "added_at": "2026-10-15T16:00:00-04:00"
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-15T15:51:00-04:00",
+    "at": "2026-10-15T16:00:00-04:00",
     "added_ids": [
-      "mongabay-2026-10-14-amazon-wildlife-routes-review",
-      "occrp-2026-10-15-jaguar-trafficking-latin-america"
+      "mongabay-2026-10-15-cambodia-macaque-trade-cites",
+      "mongabay-2026-10-14-chinese-social-media-laos-wildlife",
+      "mongabay-india-2026-10-01-exotic-pets-law",
+      "mongabay-latam-2026-10-05-peru-41t-shark-fins",
+      "occrp-2022-08-01-rare-bird-trafficking-ring"
     ],
-    "note": "Curated multilingual news on Amazon wildlife trafficking and jaguar markets; investigation materials are not classified as confirmed trafficking events."
+    "note": "Curated investigative journalism and analytical reporting, differentiated from individual seizure alerts; PT/EN/ES records."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
