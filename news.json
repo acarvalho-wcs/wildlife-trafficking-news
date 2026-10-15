@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-11T10:00:00-04:00",
+  "updated_at": "2026-10-15T15:51:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 165,
+  "count": 167,
   "news": [
     {
       "id": "mongabay-2026-10-08-01",
@@ -3536,14 +3536,60 @@
       "topic_es": "Redes y rutas",
       "source_url": "https://oeco.org.br/reportagens/relatorio-aponta-amazonia-como-epicentro-do-trafico-de-animais-silvestres-no-brasil/",
       "added_at": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "mongabay-2026-10-14-amazon-wildlife-routes-review",
+      "publication_date": "2026-10-14",
+      "outlet": "Mongabay",
+      "authors": [
+        "Fernanda Wenzel"
+      ],
+      "original_language": "en",
+      "original_title": "Researchers uncover hidden routes and patterns of Amazon wildlife trade",
+      "title_pt": "Pesquisa revela rotas e padrões do tráfico de fauna na Amazônia",
+      "title_en": "Researchers uncover hidden routes and patterns of Amazon wildlife trade",
+      "title_es": "Investigadores revelan rutas y patrones del tráfico de fauna amazónica",
+      "description_pt": "Reportagem sobre revisão de 34 estudos científicos que identificou 137 espécies comercializadas ilegalmente na Amazônia brasileira e discute diferenças entre demanda doméstica e internacional. Entrevistas abordam fronteiras amazônicas e possíveis fluxos de peixes ornamentais, quelônios e seus produtos via países vizinhos, bem como lacunas nos dados oficiais de apreensões. O estudo científico original já consta de [S] (DOI 10.1007/s10745-026-00715-z); as rotas mencionadas por entrevistados não são, por si sós, apreensões ou deslocamentos confirmados.",
+      "description_en": "Reports on a review of 34 scientific studies covering 137 illegally traded species in the Brazilian Amazon and explores domestic and international demand. Interviews discuss Amazonian border areas, reported trade flows involving ornamental fish and freshwater turtles through neighboring countries, and gaps in official seizure records. The source paper is already catalogued in [S] (DOI 10.1007/s10745-026-00715-z); interview statements about routes are not themselves confirmed shipments or seizures.",
+      "description_es": "Reportaje sobre una revisión de 34 estudios científicos que documentó 137 especies comercializadas ilegalmente en la Amazonía brasileña y examina la demanda nacional e internacional. Las entrevistas abordan áreas fronterizas, posibles flujos de peces ornamentales y tortugas a través de países vecinos y vacíos en los datos de incautaciones. El artículo científico original ya está registrado en [S] (DOI 10.1007/s10745-026-00715-z); los testimonios sobre rutas no prueban por sí solos envíos o decomisos específicos.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://news.mongabay.com/2026/10/researchers-uncover-hidden-routes-and-patterns-of-amazon-wildlife-trade/",
+      "added_at": "2026-10-15T15:51:00-04:00"
+    },
+    {
+      "id": "occrp-2026-10-15-jaguar-trafficking-latin-america",
+      "publication_date": "2026-10-15",
+      "outlet": "OCCRP",
+      "authors": [
+        "Lilia Saúl",
+        "Ingrid Gercama"
+      ],
+      "original_language": "en",
+      "original_title": "Jaguar Trafficking in Latin America Persists Through Bone Paste and Pet Smuggling",
+      "title_pt": "Tráfico de onças na América Latina persiste com pasta de ossos e comércio de animais vivos",
+      "title_en": "Jaguar Trafficking in Latin America Persists Through Bone Paste and Pet Smuggling",
+      "title_es": "El tráfico de jaguares en América Latina persiste mediante pasta de huesos y venta de animales vivos",
+      "description_pt": "Reportagem da OCCRP sobre investigação da Wildlife Justice Commission em sete países latino-americanos (2023–2025), com entrevistas e análise de mercados de dentes, peles, pasta de ossos e onças vivas. Destaca evidências de conexões internacionais no Peru e no Suriname, comércio local oportunista e lacunas sobre animais vivos no México. Diferencia achados de investigação, registros de apreensão e declarações de fontes, sem presumir rotas comprovadas em cada ocorrência.",
+      "description_en": "OCCRP reporting on a Wildlife Justice Commission investigation across seven Latin American countries (2023–2025), with interviews and examination of trade in fangs, skins, jaguar bone paste and live animals. Highlights evidence of international links in Peru and Suriname, opportunistic local trade and knowledge gaps concerning live jaguars in Mexico. Distinguishes investigative findings, seizure records and sources' statements without presuming a verified route for each occurrence.",
+      "description_es": "Reportaje de OCCRP sobre una investigación de Wildlife Justice Commission en siete países latinoamericanos (2023–2025), con entrevistas y análisis del comercio de colmillos, pieles, pasta de huesos y jaguares vivos. Destaca indicios de vínculos internacionales en Perú y Surinam, comercio local oportunista y vacíos de conocimiento sobre animales vivos en México. Distingue hallazgos de investigación, decomisos y declaraciones sin suponer rutas verificadas para cada caso.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://www.occrp.org/en/news/jaguar-trafficking-in-latin-america-persists-through-bone-paste-and-pet-smuggling",
+      "added_at": "2026-10-15T15:51:00-04:00"
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-11T10:00:00-04:00",
+    "at": "2026-10-15T15:51:00-04:00",
     "added_ids": [
-      "forbes-2026-10-04-ecoshark-brazil-shark-threats"
+      "mongabay-2026-10-14-amazon-wildlife-routes-review",
+      "occrp-2026-10-15-jaguar-trafficking-latin-america"
     ],
-    "note": "Forbes scientific conservation reporting added in PT/EN/ES. Not an illegal wildlife-trafficking event."
+    "note": "Curated multilingual news on Amazon wildlife trafficking and jaguar markets; investigation materials are not classified as confirmed trafficking events."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
