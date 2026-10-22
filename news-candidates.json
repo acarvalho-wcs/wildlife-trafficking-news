@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-22T15:20:45Z",
+  "updated_at": "2026-10-22T13:07:00-04:00",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 65,
+  "count": 66,
   "candidates": [
     {
       "id": "candidate-25f471b3bede0df2",
@@ -1173,6 +1173,26 @@
       "inspection_status": "OK",
       "discovered_at": "2026-09-29T16:32:14Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "context-1985-10-30-latimes-australian-bird-eggs",
+      "status": "CONTEXT_ONLY_NOT_FOR_NEWS_JSON",
+      "publication_date": "1985-10-30",
+      "outlet_domain": "latimes.com",
+      "outlet": "Los Angeles Times",
+      "authors_raw": [
+        "George Ramos"
+      ],
+      "original_language_hint": "en",
+      "original_title": "Naturalists in Egg Smuggling Plot Ordered to Make Videos",
+      "source_url": "https://www.latimes.com/archives/la-xpm-1985-10-30-me-12075-story.html",
+      "source_description": "Historical court report: two New York naturalists arrested at LAX on 1984-09-12 after arriving from Australia with 27 illegally exported psittacine and goshawk eggs strapped to their bodies. Sentenced in 1985 to fines and to make a public educational video; two goshawks survived. Route Australia -> Los Angeles documented. Sentencing report describes a single case, not an investigation of a network or illicit market.",
+      "discovery_query": "User supplied historical press reference",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 0,
+      "inspection_status": "SOURCE_VERIFIED_EDITORIAL_OUT_OF_SCOPE",
+      "discovered_at": "2026-10-22T13:07:00-04:00",
+      "editorial_note": "Retain as historically useful contextual press source for egg-smuggling modus operandi, avian wildlife enforcement and case timelines. Exclude from canonical news.json under criterion that stand-alone seizure/sentencing briefs do not constitute investigative coverage of networks, markets or systemic drivers. Do not conflate 1984 seizure/arrest date with 1985 article/sentencing publication."
     }
   ]
 }
