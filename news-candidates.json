@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-24T14:05:08Z",
+  "updated_at": "2026-10-25T14:25:06Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 80,
+  "count": 82,
   "candidates": [
     {
       "id": "candidate-f2ebd5849c473633",
@@ -1390,6 +1390,44 @@
       "broad_reporting_score": 3,
       "inspection_status": "OK",
       "discovered_at": "2026-09-30T16:25:45Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-3d1f9e782dfedae8",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-04-20",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [
+        "Isabel Esterman"
+      ],
+      "original_language_hint": "English",
+      "original_title": "To tackle trafficking in gibbons, experts probe what drives demand",
+      "source_url": "https://news.mongabay.com/2026/04/to-tackle-trafficking-in-gibbons-experts-probe-what-drives-demand",
+      "source_description": "“When we first got Joy, we thought she was a monkey,” says Esther. A hunter had come to her village in the Malaysian state of Sabah, on the island of Borneo, to sell wild meat. He showed Esther (not her real name) and her husband a weeks-old primate with long arms, dark skin and large, […]",
+      "discovery_query": "online wildlife trade",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-10-25T14:24:00Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-a58b737880b8fa62",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2025-11-12",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [
+        "Philip Jacobson"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Gibbon trafficking pushes rehabilitation centers to the max in North Sumatra",
+      "source_url": "https://news.mongabay.com/2025/11/gibbon-trafficking-pushes-rehabilitation-centers-to-the-max-in-north-sumatra",
+      "source_description": "MEDAN, Indonesia — Two infant siamang gibbons cling to each other. Barely 6 months old, their lanky limbs entwine their tiny bodies as they stare out of the triage cage, their wide eyes shining. Each is an orphaned victim of the illegal pet trade. Like most trafficked gibbons, their mothers were likely shot and killed […]",
+      "discovery_query": "online wildlife trade",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-10-25T14:23:59Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
