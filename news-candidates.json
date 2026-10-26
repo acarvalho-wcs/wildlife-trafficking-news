@@ -1,14 +1,33 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-25T14:25:06Z",
+  "updated_at": "2026-10-26T16:52:07Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 82,
+  "count": 84,
   "candidates": [
+    {
+      "id": "candidate-cd0428156db4fb15",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-10-25",
+      "outlet_domain": "rionegro.com.ar",
+      "authors_raw": [
+        "Redacción"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "El tráfico ilegal de fauna preocupa a los especialistas y lanzan una guía para detectarlo en aeropuertos",
+      "source_url": "https://rionegro.com.ar/sociedad/el-trafico-ilegal-de-fauna-preocupa-a-los-especialistas-y-lanzan-una-guia-para-detectarlo-en-aeropuertos",
+      "source_description": "Una guía de la Universidad Maimónides y Fundación Azara detalla las técnicas de contrabando de fauna silvestre y las herramientas para detectar este delito en terminales aeroportuarias.",
+      "discovery_query": "illegal wildlife trade",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-10-26T16:49:46Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-f2ebd5849c473633",
       "status": "CANDIDATE_UNREVIEWED",
@@ -79,6 +98,23 @@
       "broad_reporting_score": 10,
       "inspection_status": "OK",
       "discovered_at": "2026-10-24T14:02:08Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-afe59c86d701ba23",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-10-22",
+      "outlet_domain": "g1.globo.com",
+      "authors_raw": [],
+      "original_language_hint": "Portuguese",
+      "original_title": "Operação Saldo Zero: PF e Ibama investigam serrarias e comércio ilegal de madeira no Pará | G1",
+      "source_url": "https://g1.globo.com/pa/para/noticia/2026/10/22/operacao-saldo-zero-pf-e-ibama-investigam-serrarias-e-comercio-ilegal-de-madeira-no-para.ghtml",
+      "source_description": "Ação cumpriu mandados de busca e apreensão em Anapu e São Domingos do Araguaia. Investigação aponta que madeira apreendida pode ter sido retirada de florestas públicas federais.",
+      "discovery_query": "illegal wildlife trade",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-10-26T16:50:01Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
