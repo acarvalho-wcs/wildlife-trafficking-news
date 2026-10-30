@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-20T17:50:00-04:00",
+  "updated_at": "2026-10-30T10:40:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 230,
+  "count": 231,
   "news": [
+    {
+      "id": "news-20261030-global-01",
+      "publication_date": "2026-10-29",
+      "outlet": "Mongabay Latam",
+      "authors": [
+        "Cristina Fernández Aguilar"
+      ],
+      "original_language": "es",
+      "original_title": "Perú, Ecuador, Chile y Costa Rica dan la espalda a acuerdo internacional que prohíbe capturar tiburones amenazados",
+      "title_pt": "Peru, Equador, Chile e Costa Rica apresentam reservas à proteção de tubarões pela CMS",
+      "title_en": "Four Latin American countries lodge reservations to CMS shark protections",
+      "title_es": "Perú, Ecuador, Chile y Costa Rica presentan reservas a la protección de tiburones de la CMS",
+      "description_pt": "Investigação sobre as reservas de Peru, Equador, Chile e Costa Rica às novas proteções de tubarões ameaçados no Apêndice I da CMS. Examina divergências regulatórias na pesca, fiscalização, rastreabilidade de barbatanas e obrigações comerciais da CITES, incluindo denúncias e investigações de comércio ilegal entre Equador e Peru.",
+      "description_en": "Examines reservations by Peru, Ecuador, Chile and Costa Rica to strengthened CMS Appendix I protections for threatened sharks. Discusses fisheries regulation, enforcement gaps, fin traceability and separate CITES trade obligations, including allegations and investigations involving illegal trade between Ecuador and Peru.",
+      "description_es": "Analiza las reservas de Perú, Ecuador, Chile y Costa Rica a las nuevas protecciones de tiburones amenazados del Apéndice I de la CMS. Aborda regulación pesquera, fiscalización, trazabilidad de aletas y obligaciones comerciales de la CITES, incluidas denuncias e investigaciones sobre comercio ilegal entre Ecuador y Perú.",
+      "topic_code": "governance_control",
+      "topic_pt": "Governança e fiscalização",
+      "topic_en": "Governance and enforcement",
+      "topic_es": "Gobernanza y control",
+      "source_url": "https://es.mongabay.com/2026/10/peru-ecuador-chile-costa-rica-dan-espalda-acuerdo-internacional-prohibe-capturar-tiburones-amenazados/",
+      "added_at": "2026-10-30T10:40:00-04:00"
+    },
     {
       "id": "news-20261020-global-01",
       "publication_date": "2026-10-16",
@@ -4879,40 +4901,11 @@
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-20T17:50:00-04:00",
+    "at": "2026-10-30T10:40:00-04:00",
     "added_ids": [
-      "news-20261020-global-01",
-      "news-20261020-global-02",
-      "news-20261020-global-03",
-      "news-20261020-global-04",
-      "news-20261020-global-05",
-      "news-20261020-global-06",
-      "news-20261020-global-07",
-      "news-20261020-global-08",
-      "news-20261020-global-09",
-      "news-20261020-global-10",
-      "news-20261020-global-11",
-      "news-20261020-global-12",
-      "news-20261020-global-13",
-      "news-20261020-global-14",
-      "news-20261020-global-15",
-      "news-20261020-global-16",
-      "news-20261020-global-17",
-      "news-20261020-global-18",
-      "news-20261020-global-19",
-      "news-20261020-global-20",
-      "news-20261020-global-21",
-      "news-20261020-global-22",
-      "news-20261020-global-23",
-      "news-20261020-global-24",
-      "news-20261020-global-25",
-      "news-20261020-global-26",
-      "news-20261020-global-27",
-      "news-20261020-global-28",
-      "news-20261020-global-29",
-      "news-20261020-global-30"
+      "news-20261030-global-01"
     ],
-    "note": "Manually curated multilingual round for wildlife trafficking in general; investigation, context, network and conservation reporting. 12 source languages; titles and summaries PT/EN/ES; canonical URL deduplication. Up to 50 target; only substantiated items. Publication is not an endorsement of legal allegations or extrapolated routes."
+    "note": "Single-article manual editorial addition; original Mongabay Latam source; PT/EN/ES summaries; CMS reservations distinguished from CITES trade obligations."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
