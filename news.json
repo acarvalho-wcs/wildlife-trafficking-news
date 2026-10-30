@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-30T10:40:00-04:00",
+  "updated_at": "2026-10-30T13:19:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 231,
+  "count": 232,
   "news": [
+    {
+      "id": "news-20261030-global-02",
+      "publication_date": "2026-10-28",
+      "outlet": "Bitácora Ambiental",
+      "authors": [
+        "Redacción Bitácora Ambiental"
+      ],
+      "original_language": "es",
+      "original_title": "Cuatro años y USD 1,2 millones por 12 iguanas de Galápagos: la sentencia alcanzó a las mulas, pero no a la red",
+      "title_pt": "Condenação por tráfico de 12 iguanas de Galápagos expõe lacunas na investigação da rede",
+      "title_en": "Sentences over 12 Galápagos iguanas leave trafficking network questions unresolved",
+      "title_es": "Condena por 12 iguanas de Galápagos deja sin esclarecer la posible red de tráfico",
+      "description_pt": "Analisa a condenação de três cidadãos tailandeses a quatro anos de prisão e a reparação ambiental de US$ 1,2 milhão após a retirada de 12 iguanas-marinhas de Galápagos. Reconstrói a captura em Santa Cruz, a passagem por Baltra, a detecção em Guayaquil e o itinerário pretendido via Amsterdã até Bangcoc. Examina falhas de controle e possíveis facilitadores ainda não identificados ou responsabilizados, sem atribuir cumplicidade sem provas.",
+      "description_en": "Examines four-year prison sentences for three Thai nationals and a US$1.2 million environmental compensation order after 12 marine iguanas were taken from Galápagos. Reconstructs capture on Santa Cruz, transit through Baltra, detection in Guayaquil and the intended itinerary via Amsterdam to Bangkok. Investigates screening failures and potential facilitators who have not been identified or prosecuted, without assuming unproven complicity.",
+      "description_es": "Examina las condenas de cuatro años a tres ciudadanos tailandeses y la reparación ambiental de USD 1,2 millones por la extracción de 12 iguanas marinas de Galápagos. Reconstruye la captura en Santa Cruz, el paso por Baltra, la detección en Guayaquil y la ruta prevista vía Ámsterdam a Bangkok. Analiza fallas de control y posibles facilitadores no identificados ni procesados, sin atribuir complicidades no demostradas.",
+      "topic_code": "criminal_justice",
+      "topic_pt": "Justiça criminal",
+      "topic_en": "Criminal justice",
+      "topic_es": "Justicia penal",
+      "source_url": "https://www.bitacoraec.com/post/cuatro-años-y-usd-1-2-millones-por-12-iguanas-de-galápagos-la-sentencia-alcanzó-a-las-mulas-pero-n",
+      "added_at": "2026-10-30T13:19:00-04:00"
+    },
     {
       "id": "news-20261030-global-01",
       "publication_date": "2026-10-29",
@@ -4901,11 +4923,11 @@
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-30T10:40:00-04:00",
+    "at": "2026-10-30T13:19:00-04:00",
     "added_ids": [
-      "news-20261030-global-01"
+      "news-20261030-global-02"
     ],
-    "note": "Single-article manual editorial addition; original Mongabay Latam source; PT/EN/ES summaries; CMS reservations distinguished from CITES trade obligations."
+    "note": "Single investigative Bitácora Ambiental article; PT/EN/ES; court findings distinguished from allegations of possible facilitators; completed vs intended routes distinguished."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
