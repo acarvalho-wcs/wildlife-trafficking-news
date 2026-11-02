@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-02T08:15:00-04:00",
+  "updated_at": "2026-11-02T14:33:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 233,
+  "count": 234,
   "news": [
+    {
+      "id": "g1-fantastico-2026-11-01-brazil-bird-egg-trafficking-network",
+      "publication_date": "2026-11-01",
+      "outlet": "g1 / Fantástico",
+      "authors": [
+        "Fantástico"
+      ],
+      "original_language": "pt",
+      "original_title": "Tráfico internacional de ovos de aves nativas do Brasil movimentou R$ 90 milhões, diz PF",
+      "title_pt": "Investigação da PF expõe rede internacional de tráfico de ovos de aves brasileiras",
+      "title_en": "Brazilian police investigation exposes international trafficking network for native bird eggs",
+      "title_es": "Investigación de la Policía Federal revela red internacional de tráfico de huevos de aves brasileñas",
+      "description_pt": "Reportagem do Fantástico reconstrói uma investigação da Polícia Federal, em cooperação com autoridades europeias, sobre uma rede de retirada de ovos de aves nativas no Brasil, transporte clandestino e comercialização no exterior. Relata uma apreensão no Aeroporto do Galeão que contribuiu para identificar contatos entre fornecedores no Paraná e envolvidos ligados à Suíça, além de prisões na Espanha e no Brasil. Segundo a PF, o esquema teria movimentado R$ 90 milhões; a cifra é apresentada como estimativa policial, não como receita independentemente comprovada. Discute também os riscos aos embriões durante o transporte e a sobrevivência de filhotes recuperados.",
+      "description_en": "Fantástico reports on a Brazilian Federal Police investigation, conducted with European authorities, into a network allegedly collecting native bird eggs in Brazil, smuggling them abroad and supplying overseas buyers. An interception at Rio de Janeiro's Galeão Airport helped investigators trace links between suspected suppliers in Paraná and individuals connected to Switzerland; arrests followed in Spain and Brazil. The R$90 million figure is attributed to police and not presented as independently verified proceeds. The report also examines embryo mortality during transport and the care of surviving chicks.",
+      "description_es": "Reportaje de Fantástico sobre una investigación de la Policía Federal de Brasil, con cooperación de autoridades europeas, acerca de una red dedicada presuntamente a extraer huevos de aves nativas, transportarlos clandestinamente y comercializarlos en el extranjero. Una incautación en el aeropuerto del Galeão permitió rastrear vínculos entre supuestos proveedores en Paraná y personas relacionadas con Suiza; hubo detenciones en España y Brasil. La cifra de 90 millones de reales se atribuye a la policía y no se presenta como ingreso verificado de forma independiente. También aborda la mortalidad embrionaria durante el transporte y la atención a los polluelos sobrevivientes.",
+      "topic_code": "networks_routes",
+      "topic_pt": "Redes e rotas",
+      "topic_en": "Networks and routes",
+      "topic_es": "Redes y rutas",
+      "source_url": "https://g1.globo.com/fantastico/noticia/2026/11/01/trafico-internacional-de-ovos-de-aves-nativas-do-brasil-movimentou-r-90-milhoes-diz-pf.ghtml",
+      "added_at": "2026-11-02T14:33:00-04:00"
+    },
     {
       "id": "intpolicydigest-2026-11-01-zuckerberg-wildlife-trafficking",
       "publication_date": "2026-11-01",
@@ -4945,11 +4967,11 @@
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-11-02T08:15:00-04:00",
+    "at": "2026-11-02T14:33:00-04:00",
     "added_ids": [
-      "intpolicydigest-2026-11-01-zuckerberg-wildlife-trafficking"
+      "g1-fantastico-2026-11-01-brazil-bird-egg-trafficking-network"
     ],
-    "note": "International Policy Digest analysis; PT/EN/ES; suspected listings distinguished from proven transactions."
+    "note": "g1/Fantástico investigation into Brazil-Europe bird-egg trafficking; PT/EN/ES; R$90 million explicitly attributed to PF; no canonical cases modified."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
