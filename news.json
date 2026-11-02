@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-30T13:19:00-04:00",
+  "updated_at": "2026-11-02T08:15:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 232,
+  "count": 233,
   "news": [
+    {
+      "id": "intpolicydigest-2026-11-01-zuckerberg-wildlife-trafficking",
+      "publication_date": "2026-11-01",
+      "outlet": "International Policy Digest",
+      "authors": [
+        "Daniel Stiles"
+      ],
+      "original_language": "en",
+      "original_title": "Is Zuckerberg the World’s Most Successful Wildlife Trafficker?",
+      "title_pt": "Plataformas da Meta e a circulação de anúncios suspeitos de tráfico de fauna",
+      "title_en": "Meta platforms and suspected illegal wildlife trade online",
+      "title_es": "Plataformas de Meta y anuncios sospechosos de tráfico de fauna",
+      "description_pt": "Analisa o papel das plataformas da Meta na circulação de anúncios suspeitos de tráfico de fauna, incluindo algoritmos de recomendação, monetização e lacunas na fiscalização. Examina dados de monitoramento internacional, distinguindo anúncios suspeitos de transações ilegais comprovadas.",
+      "description_en": "Examines the role of Meta platforms in circulating suspected illegal wildlife trade advertisements, including recommendation algorithms, monetization and enforcement gaps. Discusses international monitoring findings while distinguishing suspected listings from verified illegal transactions.",
+      "description_es": "Analiza el papel de las plataformas de Meta en la circulación de anuncios sospechosos de tráfico de fauna, incluidos algoritmos de recomendación, monetización y deficiencias de control. Examina resultados de monitoreo internacional, distinguiendo anuncios sospechosos de transacciones ilegales comprobadas.",
+      "topic_code": "digital_trade",
+      "topic_pt": "Comércio ilegal digital",
+      "topic_en": "Illegal online trade",
+      "topic_es": "Comercio ilegal digital",
+      "source_url": "https://intpolicydigest.org/is-zuckerberg-the-world-s-most-successful-wildlife-trafficker/",
+      "added_at": "2026-11-02T08:15:00-04:00"
+    },
     {
       "id": "news-20261030-global-02",
       "publication_date": "2026-10-28",
@@ -4923,11 +4945,11 @@
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-10-30T13:19:00-04:00",
+    "at": "2026-11-02T08:15:00-04:00",
     "added_ids": [
-      "news-20261030-global-02"
+      "intpolicydigest-2026-11-01-zuckerberg-wildlife-trafficking"
     ],
-    "note": "Single investigative Bitácora Ambiental article; PT/EN/ES; court findings distinguished from allegations of possible facilitators; completed vs intended routes distinguished."
+    "note": "International Policy Digest analysis; PT/EN/ES; suspected listings distinguished from proven transactions."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
