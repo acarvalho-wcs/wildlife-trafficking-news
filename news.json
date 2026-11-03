@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-02T14:33:00-04:00",
+  "updated_at": "2026-11-03T16:59:00-04:00",
   "source_site": "https://fauna-reportagens.wcs-associa-6434.chatgpt.site",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
-  "count": 234,
+  "count": 235,
   "news": [
+    {
+      "id": "mongabay-brasil-2026-11-02-exotic-reptile-pet-trade",
+      "publication_date": "2026-11-02",
+      "outlet": "Mongabay Brasil",
+      "authors": [
+        "Fernanda Wenzel"
+      ],
+      "original_language": "pt",
+      "original_title": "Venda de répteis exóticos explode no Brasil e especialistas alertam para “desastre ambiental”",
+      "title_pt": "Comércio de répteis exóticos cresce no Brasil e expõe riscos de bioinvasão e lavagem de animais",
+      "title_en": "Exotic reptile sales surge in Brazil, exposing invasion risks and possible wildlife laundering",
+      "title_es": "Se dispara la venta de reptiles exóticos en Brasil entre riesgos de invasión y posible blanqueo de animales",
+      "description_pt": "Investigação com dados obtidos por LAI aponta 9.131 répteis de 27 espécies exóticas vendidos por estabelecimentos autorizados desde 2021; as vendas anuais passaram de 236 em 2021 para mais de 2.500 em 2025. Examina divergências entre restrições federais à importação e licenças estaduais, comercialização informal pelas redes sociais e riscos de espécies invasoras. Apresenta dados de 77 transferências de répteis exóticos dos Cetas a empresas entre 2020 e 2024 e o alerta de técnicos sobre possível mecanismo de regularização de animais oriundos do tráfico, sem tratar a hipótese como fraude demonstrada em todos os casos.",
+      "description_en": "Using records obtained through Brazil's access-to-information law, the investigation reports 9,131 exotic reptiles across 27 species sold by licensed businesses since 2021, with annual sales rising from 236 in 2021 to over 2,500 in 2025. It examines tensions between federal import restrictions and state breeding permits, informal sales through social media, and biological invasion risks. It also documents 77 transfers of exotic reptiles from wildlife screening centres to businesses in 2020–2024 and regulators' concerns about potential laundering of trafficked animals, without presenting each transfer as proven fraud.",
+      "description_es": "A partir de datos obtenidos mediante solicitudes de acceso a la información, la investigación documenta 9.131 reptiles exóticos de 27 especies vendidos por establecimientos autorizados desde 2021; las ventas anuales pasaron de 236 en 2021 a más de 2.500 en 2025. Examina contradicciones entre restricciones federales a la importación y licencias estatales, ventas informales en redes sociales y riesgos de invasión biológica. También documenta 77 transferencias de reptiles exóticos desde centros de atención de fauna a empresas entre 2020 y 2024 y alertas sobre posible blanqueo de ejemplares traficados, sin considerar que todos esos traslados constituyan fraude demostrado.",
+      "topic_code": "markets_demand",
+      "topic_pt": "Mercados e demanda",
+      "topic_en": "Markets and demand",
+      "topic_es": "Mercados y demanda",
+      "source_url": "https://brasil.mongabay.com/2026/11/venda-de-repteis-exoticos-explode-no-brasil-e-especialistas-alertam-para-desastre-ambiental/",
+      "added_at": "2026-11-03T16:59:00-04:00"
+    },
     {
       "id": "g1-fantastico-2026-11-01-brazil-bird-egg-trafficking-network",
       "publication_date": "2026-11-01",
@@ -4967,11 +4989,11 @@
     }
   ],
   "last_manual_ingestion": {
-    "at": "2026-11-02T14:33:00-04:00",
+    "at": "2026-11-03T16:59:00-04:00",
     "added_ids": [
-      "g1-fantastico-2026-11-01-brazil-bird-egg-trafficking-network"
+      "mongabay-brasil-2026-11-02-exotic-reptile-pet-trade"
     ],
-    "note": "g1/Fantástico investigation into Brazil-Europe bird-egg trafficking; PT/EN/ES; R$90 million explicitly attributed to PF; no canonical cases modified."
+    "note": "Mongabay Brasil in-depth reptile pet trade investigation; PT/EN/ES; licensed sales distinguished from illegal trade and alleged laundering; no changes to canonical events."
   },
   "last_automated_ingestion": {
     "batch": "automated_news_2026-10-02",
