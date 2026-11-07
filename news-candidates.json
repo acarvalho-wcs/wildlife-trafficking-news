@@ -1,14 +1,31 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-06T17:33:51Z",
+  "updated_at": "2026-11-07T16:30:11Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 84,
+  "count": 85,
   "candidates": [
+    {
+      "id": "candidate-762e0685274b1c5f",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-06",
+      "outlet_domain": "lostiempos.com",
+      "authors_raw": [],
+      "original_language_hint": "Spanish",
+      "original_title": "Alertan que parabas Barba Azul y Frente Roja están amenazadas por la extinción",
+      "source_url": "https://lostiempos.com/doble-click/vida/20261106/alertan-que-parabas-barba-azul-frente-roja-estan-amenazadas-extincion",
+      "source_description": "Bolivia alberga dos especies únicas de parabas que hoy enfrentan uno de los mayores desafíos para su supervivencia. Se trata de la paraba Barba Azul y la paraba Frente Roja, aves emblemáticas de la fauna nacional que se encuentran en peligro crítico de extinción y cuya conservación requiere el compromiso de las instituciones y la población. El biólogo encargado del programa de Educación y Turismo del Zoológico de Santa Cruz, Abraham Rojas, explicó que ambas especies son endémicas de Bolivia, es decir, que habitan de manera natural únicamente en territorio boliviano.",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-07T16:28:26Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-cd0428156db4fb15",
       "status": "CANDIDATE_UNREVIEWED",
