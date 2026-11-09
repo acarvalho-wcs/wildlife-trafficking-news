@@ -1,14 +1,33 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-08T16:42:29Z",
+  "updated_at": "2026-11-09T20:47:45Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 85,
+  "count": 86,
   "candidates": [
+    {
+      "id": "candidate-14934b1ba3d66a23",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-08",
+      "outlet_domain": "orissapost.com",
+      "authors_raw": [
+        "Post News Network"
+      ],
+      "original_language_hint": "English",
+      "original_title": "No concrete proof yet from Indonesia for claim over rescued orangutans: Odisha minister - OrissaPOST",
+      "source_url": "https://orissapost.com/no-concrete-proof-yet-from-indonesia-for-claim-over-rescued-orangutans-odisha-minister",
+      "source_description": "Bhubaneswar: Neither Indonesia nor any other country has so far provided documentary evidence to establish ownership of five baby orangutans rescued from a forest in Odisha two months ago, state Forest Minister Ganesh Ram Singh Khuntia said Sunday. Speaking to reporters, Khuntia said all five orangutans were doing well, and expressed the state’s desire to […]",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 5,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-09T20:46:14Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-762e0685274b1c5f",
       "status": "CANDIDATE_UNREVIEWED",
