@@ -1,14 +1,52 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-10T17:54:15Z",
+  "updated_at": "2026-11-11T17:57:31Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 86,
+  "count": 88,
   "candidates": [
+    {
+      "id": "candidate-43a4576bd3a46bf7",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-09",
+      "outlet_domain": "winknews.com",
+      "authors_raw": [
+        "CBS"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Supreme Court allows Trump administration to resume border wall construction in Big Bend region",
+      "source_url": "https://winknews.com/news/supreme-court-allows-trump-administration-to-resume-border-wall-construction-in-big-bend-region/article_296d4ebe-e496-44b5-ac37-b04f0e5dabde.html",
+      "source_description": "The Supreme Court on Monday cleared the way for the Trump administration to resume building a border wall and other infrastructure through a remote area of West Texas while litigation",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-11T17:54:40Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-2f4d7ba7f9875d1f",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-09",
+      "outlet_domain": "elovallino.cl",
+      "authors_raw": [
+        "Editor Web El Ovallino"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "Las lluvias reactivan atractivos naturales y abren nuevas oportunidades para el turismo en Limarí - El Ovallino - Pasion por el Limarí",
+      "source_url": "https://elovallino.cl/las-lluvias-reactivan-atractivos-naturales-y-abren-nuevas-oportunidades-para-el-turismo-en-limari",
+      "source_description": "El aumento del recurso hídrico ha transformado el paisaje, pasando de los clásicos parajes secos característico de la zona semidesértica asolada por la continua sequía, a una versión con cascadas y pozas naturales. Atractivos que comienzan a recibir más visitantes. En Monte Patria y Ovalle valoran las posibilidades de diversificar la oferta turística, mientras guías […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-11T17:54:45Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-14934b1ba3d66a23",
       "status": "CANDIDATE_UNREVIEWED",
