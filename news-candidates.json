@@ -1,14 +1,50 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-14T16:38:34Z",
+  "updated_at": "2026-11-15T17:15:05Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 88,
+  "count": 90,
   "candidates": [
+    {
+      "id": "candidate-cf19053553e11916",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-13",
+      "outlet_domain": "orlandosentinel.com",
+      "authors_raw": [],
+      "original_language_hint": "English",
+      "original_title": "Editorial: Legislation would help save sloths. It’s a good start",
+      "source_url": "https://orlandosentinel.com/2026/11/13/editorial-legislation-would-help-save-sloths-its-a-good-start",
+      "source_description": "The “SLOTHS Act”— which stands for Stopping Legalized Organized Trafficking and Harm to Sloths, would make it illegal to import sloths into the U.S. — live or dead — unless the animal is en route to an accredited research facility or breedi…",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 4,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-15T17:13:10Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-4be89d7b8491e43d",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-12",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [
+        "Philip Jacobson"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Wildlife trade regulator CITES lifts sanctions against Laos, prompting conservation concerns",
+      "source_url": "https://news.mongabay.com/2026/11/wildlife-trade-regulator-cites-lifts-sanctions-against-laos-prompting-conservation-concerns",
+      "source_description": "CHIANG MAI, Thailand — Global wildlife trade regulator CITES has lifted trade sanctions against Laos, opening the door for the Southeast Asian nation to resume trade of long-tailed macaques and other species. Some conservationists called the move “premature,” arguing that Laos must do more to curb the illegal wildlife trade, which is estimated to be worth […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-15T17:13:10Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-43a4576bd3a46bf7",
       "status": "CANDIDATE_UNREVIEWED",
