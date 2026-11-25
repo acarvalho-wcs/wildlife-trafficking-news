@@ -1,14 +1,69 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-24T20:42:03Z",
+  "updated_at": "2026-11-25T19:59:32Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 90,
+  "count": 93,
   "candidates": [
+    {
+      "id": "candidate-55b290438d108ab8",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-25",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [],
+      "original_language_hint": "English",
+      "original_title": "Nigeria's ivory and pangolin trade exposes gaps in wildlife crime prosecutions",
+      "source_url": "https://news.mongabay.com/short-article/nigerias-ivory-and-pangolin-trade-exposes-gaps-in-wildlife-crime-prosecutions",
+      "source_description": "Illegal wildlife trafficking continues to thrive across West and Central Africa despite recent increases in regional law enforcement operations, according to a recent report by the Environmental Investigation Agency (EIA). Nigeria remains the primary exit point for pangolin scales and elephant ivory bound for Asian markets, with authorities seizing more than 50 metric tons of […]",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 14,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-25T19:57:51Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-36ef4cf0e565c46b",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-20",
+      "outlet_domain": "kesq.com",
+      "authors_raw": [
+        "CNN Newsource"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Orphaned baby marmoset named after UK detective who saved him",
+      "source_url": "https://kesq.com/news/national-world/cnn-world/2026/11/20/orphaned-baby-marmoset-named-after-uk-detective-who-saved-him",
+      "source_description": "By Jennifer Hauser, CNN London (CNN) — Detective Constable Gino Ferrara normally spends his days investigating rape and serious sexual offences on London’s streets. But on November 11, the detective encountered a tiny, scared, baby monkey trapped in a south London shed. “When I saw the marmoset I was shocked. The yard where he was",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 5,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-25T19:57:52Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-01700fb990d9a747",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-19",
+      "outlet_domain": "znsbahamas.com",
+      "authors_raw": [
+        "ZNS BAHAMAS"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Anchor Awards 2026 honours excellence and dedication in the fishing industry - ZNS BAHAMAS",
+      "source_url": "https://znsbahamas.com/anchor-awards-2026-honours-excellence-and-dedication-in-the-fishing-industry",
+      "source_description": "The Ministry of Agriculture and Marine Resources celebrated the outstanding contributions of Bahamian fishers and industry leaders at the Anchor Awards 2026 ceremony, held Saturday, November 14, at Baha Mar Grand Ballroom under the theme, “Holding the Line for the Future.” The annual awards ceremony recognized the skill, dedication, leadership and service of individuals who […]",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-25T19:57:53Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-cf19053553e11916",
       "status": "CANDIDATE_UNREVIEWED",
