@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25T19:59:32Z",
+  "generated_at": "2026-11-26T19:39:55Z",
   "lookback_days": 7,
   "queries_run": 22,
   "published_count": 235,
-  "existing_candidate_count": 90,
-  "new_candidates_added": 3,
+  "existing_candidate_count": 93,
+  "new_candidates_added": 0,
   "resulting_candidate_count": 93,
   "languages_queried": [
     "ar",
@@ -21,9 +21,5 @@
     "vi",
     "zh"
   ],
-  "new_candidate_ids": [
-    "candidate-55b290438d108ab8",
-    "candidate-36ef4cf0e565c46b",
-    "candidate-01700fb990d9a747"
-  ]
+  "new_candidate_ids": []
 }
