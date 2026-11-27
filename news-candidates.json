@@ -1,14 +1,122 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-26T19:39:55Z",
+  "updated_at": "2026-11-27T19:31:06Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 93,
+  "count": 107,
   "candidates": [
+    {
+      "id": "candidate-2b547cb78d2f5fb7",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-26",
+      "outlet_domain": "eldiarionuevodia.com.ar",
+      "authors_raw": [
+        "Redacción Nuevo Día"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "Nuevos senderos, astroturismo y una propuesta para redescubrir su patrimonio natural",
+      "source_url": "https://eldiarionuevodia.com.ar/locales/nuevos-senderos-astroturismo-y-una-propuesta-para-redescubrir-su-patrimonio-natural-9173",
+      "source_description": "La directora Provincial de Fauna y Áreas Protegidas del Consejo Agrario Provincial, Marisol Espino, brindó detalles sobre las actividades previstas para conmemorar un nuevo aniversario de la Reserva Geológica Provincial Laguna Azul. Este viernes 27 de noviembre se presentarán nuevos senderos y se desarrollará una experiencia de astroturismo para disfrutar del cielo patagónico.",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 10,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:20Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-908225fe22541611",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-26",
+      "outlet_domain": "cnc3.co.tt",
+      "authors_raw": [
+        "Newsdesk"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Caribbean launches network to fight environmental crime - CNC3",
+      "source_url": "https://cnc3.co.tt/caribbean-launches-network-to-fight-environmental-crime",
+      "source_description": "The Caribbean has established a dedicated regional network to tackle transnational environmental crime, as authorities warn that organised criminal groups are increasingly exploiting the region's natural resources and porous borders. The Caribbean Network of Environmental Enforcement Agencies was formally inaugurated during a two-day General Assembly in Georgetown, Guyana, on November 25 and 26. The initiative",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 8,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:18Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-e402590c7c5dc1b4",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-26",
+      "outlet_domain": "engeplus.com.br",
+      "authors_raw": [
+        "Isabela Baldin"
+      ],
+      "original_language_hint": "Portuguese",
+      "original_title": "Senado aprova PL que prevê até cinco anos de prisão para tráfico de animais silvestres",
+      "source_url": "https://engeplus.com.br/noticia/senado-aprova-pl-que-preve-ate-cinco-anos-de-prisao-para-trafico-de-animais",
+      "source_description": "Projeto também acaba com perdão judicial para posse irregular em residências. Um projeto de lei (PL) que estabelece punições mais rigorosas para quem…",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 5,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:22Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-393a6d41d9bc98a7",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-26",
+      "outlet_domain": "lanzadigital.com",
+      "authors_raw": [],
+      "original_language_hint": "Spanish",
+      "original_title": "Corso y Rodal retratan cómo culturas en los límites renegocian su forma de habitar el mundo para sobrevivir",
+      "source_url": "https://lanzadigital.com/provincia/ciudad-real/corso-y-rodal-retratan-como-culturas-en-los-limites-renegocian-su-forma-de-habitar-el-mundo-para-sobrevivir",
+      "source_description": "Exhiben su trabajo de investigación sobre los japoneses matagi que incorporan por primera vez en 500 años a una mujer cazadora",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 4,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:21Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-f72b526096e97376",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-26",
+      "outlet_domain": "lacapitalmdp.com",
+      "authors_raw": [],
+      "original_language_hint": "Spanish",
+      "original_title": "Estrenos se cine: comedia, documental, leyendas indias y aventuras animadas",
+      "source_url": "https://lacapitalmdp.com/estrenos-se-cine-comedia-documental-leyendas-indias-y-aventuras-animadas",
+      "source_description": "âBichos de marâ, un documental sobre la expediciÃ³n al caÃ±Ã³n submarino frente a las costas de Mar del Plata; âLa nueva Fockerâ, que trae una nueva y disparatada historia de la familia Focker; la leyenda de Ramayana; y âHechizo: bienvenidos a Hexeâ, sobre una madre y su hija que descubren el mundo de la magia, […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:23Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-55b290438d108ab8",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-25",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [],
+      "original_language_hint": "English",
+      "original_title": "Nigeria's ivory and pangolin trade exposes gaps in wildlife crime prosecutions",
+      "source_url": "https://news.mongabay.com/short-article/nigerias-ivory-and-pangolin-trade-exposes-gaps-in-wildlife-crime-prosecutions",
+      "source_description": "Illegal wildlife trafficking continues to thrive across West and Central Africa despite recent increases in regional law enforcement operations, according to a recent report by the Environmental Investigation Agency (EIA). Nigeria remains the primary exit point for pangolin scales and elephant ivory bound for Asian markets, with authorities seizing more than 50 metric tons of […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 14,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:25Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-55b290438d108ab8",
       "status": "CANDIDATE_UNREVIEWED",
@@ -24,6 +132,114 @@
       "broad_reporting_score": 14,
       "inspection_status": "OK",
       "discovered_at": "2026-11-25T19:57:51Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-50911c56b6a98eeb",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-25",
+      "outlet_domain": "otempo.com.br",
+      "authors_raw": [],
+      "original_language_hint": "Portuguese",
+      "original_title": "Tráfico de animais pode levar a até oito anos de prisão; projeto avança no Senado",
+      "source_url": "https://otempo.com.br/cidades/2026/11/24/trafico-de-animais-pode-levar-a-ate-oito-anos-de-prisao-projeto-avanca-no-senado",
+      "source_description": "Projeto aprovado no Senado prevê até oito anos de prisão por tráfico de animais e muda regras sobre maus-tratos.",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 5,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:33Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-bd82b235b69d25ce",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-25",
+      "outlet_domain": "jornaldeuberaba.com.br",
+      "authors_raw": [],
+      "original_language_hint": "Portuguese",
+      "original_title": "Aprovado projeto que tipifica crime de tráfico de animais silvestres",
+      "source_url": "https://jornaldeuberaba.com.br/noticia/172169/aprovado-projeto-que-tipifica-crime-de-trafico-de-animais-silvestres",
+      "source_description": null,
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 5,
+      "inspection_status": "HTTP_403",
+      "discovered_at": "2026-11-27T19:29:29Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-96fbb9edbf0127e6",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-24",
+      "outlet_domain": "odia.ig.com.br",
+      "authors_raw": [
+        "Aretha Dossares"
+      ],
+      "original_language_hint": "Portuguese",
+      "original_title": "Senado aprova projeto que eleva pena por tráfico de animais a 8 anos | Brasil | O Dia",
+      "source_url": "https://odia.ig.com.br/brasil/2026/11/7325638-senado-aprova-projeto-que-eleva-pena-por-trafico-de-animais-a-8-anos.html",
+      "source_description": "PL cria crime específico na Lei de Crimes Ambientais, endurece punição por maus-tratos a cavalos e segue para sanção",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 5,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:27Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-9a73f321c5111c25",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-21",
+      "outlet_domain": "lavozdegalicia.es",
+      "authors_raw": [
+        "https://www.facebook.com/lavozdegalicia"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "Silvia Flor, investigadora: «La ciencia no tiene suficiente visibilidad para los niños»",
+      "source_url": "https://lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2026/11/20/silvia-flor-investigadora-explicar-cancer-nino-siempre-decirles-culpa/00031795193661046136257.htm",
+      "source_description": "La bioquímica publica un libro infantil en el que un tumor de mama es uno de los protagonistas y asegura que «para explicar el cáncer a un niño, siempre hay que decirles que no es su culpa»",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:38Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-7eda7f073bceaf36",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-21",
+      "outlet_domain": "sudouest.fr",
+      "authors_raw": [],
+      "original_language_hint": "French",
+      "original_title": "Polynésie française : à bord d’un Falcon 50 de la Marine nationale pour surveiller la plus vaste aire marine protégée du monde",
+      "source_url": "https://sudouest.fr/environnement/mer/polynesie-francaise-a-bord-d-un-falcon-50-de-la-marine-nationale-pour-surveiller-la-plus-vaste-aire-marine-protegee-du-monde-31509039.php",
+      "source_description": "Pêche illicite, narcotrafic, sauvetage en mer ou menace minière sous-marine : à bord des Falcon 50 de la Marine nationale, les militaires sillonnent les airs au-dessus des 5 millions de kilomètres carrés du sanctuaire polynésien Tainui Atea",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 4,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:37Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-0d26ef8a245924dd",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-21",
+      "outlet_domain": "clarin.com",
+      "authors_raw": [
+        "Gonzalo Herman"
+      ],
+      "original_language_hint": "Spanish",
+      "original_title": "La historia de Saturnino, el elefante marino que nació en una playa de Mar del Plata y conmueve a la ciudad",
+      "source_url": "https://clarin.com/sociedad/historia-saturnino-elefante-marino-nacio-playa-mar-plata-conmueve-ciudad_0_PxRpC6DQCS.html",
+      "source_description": "Nació sobre la arena de La Perla, en un hecho pocas veces visto sobre la costa de la ciudad.Los vecinos pudieron ser testigos de sus primeros días y su crecimiento hasta que dio sus primeros pasos en el agua solo.Y generó preocupación cuando desapareció después de que un grupo de perros lo espantara. Hasta que volvió a ser avistado en la costa.",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:36Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
@@ -1651,6 +1867,25 @@
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
+      "id": "candidate-dea510dab0edc8f5",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2025-06-06",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [
+        "Karen Coates"
+      ],
+      "original_language_hint": "English",
+      "original_title": "How trafficking & misconceptions threaten Nigeria's wildlife: Q&A with Dr. Mark Ofua",
+      "source_url": "https://news.mongabay.com/2025/06/how-trafficking-misconceptions-threaten-nigerias-wildlife-qa-with-dr-mark-ofua",
+      "source_description": "In a significant blow to wildlife trafficking, Nigerian authorities recently seized 2 metric tons of pangolin scales, worth tens of thousands of dollars on the black market, and arrested a suspect believed to be a key broker, according to a recent Mongabay report. This operation, carried out by the Nigeria Customs Service with intelligence from […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:26Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
       "id": "candidate-a64c8b3753fe64f9",
       "status": "CANDIDATE_UNREVIEWED",
       "publication_date": "2025-04-30",
@@ -1667,6 +1902,25 @@
       "broad_reporting_score": 3,
       "inspection_status": "OK",
       "discovered_at": "2026-09-29T16:32:14Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-cb35df04dfc01064",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2021-10-07",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [
+        "Jeremy Hance"
+      ],
+      "original_language_hint": "English",
+      "original_title": "Tracking white-bellied pangolins in Nigeria, the new global trafficking hub",
+      "source_url": "https://news.mongabay.com/2021/10/tracking-white-bellied-pangolins-in-nigeria-the-new-global-trafficking-hub",
+      "source_description": "CROSS RIVER NATIONAL PARK, Nigeria — It wasn’t supposed to be this straightforward. For days, we’d crisscrossed rainforest-blanketed mountains, hacked through thorny thickets and corkscrewing lianas, narrowly escaped rockfalls, and become fodder for army ants beneath torrential skies — all to no avail. Now, here we are: only a 30-minute amble from camp along a […]",
+      "discovery_query": "wildlife trafficking",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 3,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-27T19:29:25Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
