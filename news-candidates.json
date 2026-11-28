@@ -1,14 +1,33 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-27T19:31:06Z",
+  "updated_at": "2026-11-28T18:16:47Z",
   "editorial_criterion": {
     "pt": "Reportagens que investigam redes, mercados, causas e impactos do tráfico. Notícias de apreensões isoladas não integram o acervo.",
     "en": "In-depth reporting on networks, markets, drivers and impacts of wildlife trafficking. Brief reports focused on isolated seizures are excluded.",
     "es": "Reportajes que investigan redes, mercados, causas e impactos del tráfico. Las noticias centradas en decomisos aislados no integran el acervo."
   },
   "note": "Automated multilingual discovery queue. Items are not public until curated into news.json.",
-  "count": 107,
+  "count": 110,
   "candidates": [
+    {
+      "id": "candidate-80b2f15604e5d4c5",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-28",
+      "outlet_domain": "presstv.co.uk",
+      "authors_raw": [
+        "Presstv"
+      ],
+      "original_language_hint": "English",
+      "original_title": "NYT’s Iran dam-missile narrative crumbles under statistical scrutiny and engineering evidence",
+      "source_url": "https://presstv.co.uk/Detail/2026/11/21/781246/the-dam-riddle-that-isnt-refuting-the-new-york-times-case-against-irans-water-infrastructure",
+      "source_description": "Iran’s dams serve civilian needs and their geographical proximity to underground missile facilities does not prove military intent. Statistical analysis, infrastructure evidence, historical context and international law debunk New York Times",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 4,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-28T18:15:29Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
     {
       "id": "candidate-2b547cb78d2f5fb7",
       "status": "CANDIDATE_UNREVIEWED",
@@ -45,6 +64,23 @@
       "broad_reporting_score": 8,
       "inspection_status": "OK",
       "discovered_at": "2026-11-27T19:29:18Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-0550d559024974b2",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-26",
+      "outlet_domain": "politicsweb.co.za",
+      "authors_raw": [],
+      "original_language_hint": "English",
+      "original_title": "Phala Phala: Ramaphosa vs Ngcobo NO: The High Court judgment | Politicsweb",
+      "source_url": "https://politicsweb.co.za/news/phala-phala-ramaphosa-vs-ngcobo-no-the-high-court-judgment",
+      "source_description": "Court sets aside the Section 89 Independent Panel report and any National Assembly steps taken under it",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 7,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-28T18:15:31Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
@@ -98,6 +134,23 @@
       "broad_reporting_score": 3,
       "inspection_status": "OK",
       "discovered_at": "2026-11-27T19:29:23Z",
+      "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
+    },
+    {
+      "id": "candidate-55b290438d108ab8",
+      "status": "CANDIDATE_UNREVIEWED",
+      "publication_date": "2026-11-25",
+      "outlet_domain": "news.mongabay.com",
+      "authors_raw": [],
+      "original_language_hint": "English",
+      "original_title": "Nigeria's ivory and pangolin trade exposes gaps in wildlife crime prosecutions",
+      "source_url": "https://news.mongabay.com/short-article/nigerias-ivory-and-pangolin-trade-exposes-gaps-in-wildlife-crime-prosecutions",
+      "source_description": "Illegal wildlife trafficking continues to thrive across West and Central Africa despite recent increases in regional law enforcement operations, according to a recent report by the Environmental Investigation Agency (EIA). Nigeria remains the primary exit point for pangolin scales and elephant ivory bound for Asian markets, with authorities seizing more than 50 metric tons of […]",
+      "discovery_query": "wildlife crime network",
+      "discovery_query_language": "en",
+      "broad_reporting_score": 14,
+      "inspection_status": "OK",
+      "discovered_at": "2026-11-28T18:15:32Z",
       "editorial_note": "Requires PT/EN/ES enrichment and human/AI editorial validation before publication in news.json."
     },
     {
